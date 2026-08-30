@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>3D ULPIN Multi-Floor Visualizer - BKC Core</title>
+    <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+    <link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet" />
+    <style>
+        body { margin: 0; padding: 0; background-color: #111; font-family: 'Segoe UI', Tahoma, sans-serif; overflow: hidden; }
+        #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+        
+        #ui-panel {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: rgba(20, 20, 20, 0.9);
+            border: 1px solid #444;
+            padding: 12px 18px;
+            border-radius: 8px;
+            color: white;
+            z-index: 10;
+        }
+
+        .toggle-container {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        #info-panel {
+            position: absolute;
+            top: 80px;
+            right: -350px;
+            width: 280px;
+            background: rgba(15, 15, 15, 0.88);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            border-radius: 12px;
+            color: #fff;
+            padding: 20px;
+            z-index: 10;
+            box-shadow: -5px 10px 30px rgba(0, 0, 0, 0.6);
+            transition: right 0.3s cubic-bezier(0.25, 1, 0.5, 1);
+        }
+
+        #info-panel.active {
+            right: 20px;
+        }
+
+        .info-header {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #888;
+            margin-bottom: 6px;
+        }
+
+        .info-title {
+            font-size: 15px;
+            font-weight: bold;
+            margin-bottom: 15px;
+            color: #00E5FF;
+            word-wrap: break-word;
+        }
+
+        .info-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+            font-size: 13px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            padding-bottom: 6px;
+        }
+
+        .close-btn {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            cursor: pointer;
+            color: #888;
+            font-weight: bold;
+            font-size: 14px;
+        }
+        .close-btn:hover { color: #fff; }
+
+        #coords-box {
+            position: absolute; 
+            bottom: 20px; 
+            left: 20px; 
+            z-index: 10; 
+            background: rgba(0, 0, 0, 0.85); 
+            color: #00ffcc; 
+            padding: 8px 14px; 
+            border-radius: 6px; 
+            font-family: monospace; 
+            font-size: 13px;
+            border: 1px solid #00ffcc;
+        }
+    </style>
+</head>
+<body>
+<div id="map"></div>
+
+<div id="ui-panel">
+    <label class="toggle-container">
+        <input type="checkbox" id="taxToggle">
+        <strong>Global Tax View</strong>
+    </label>
+</div>
+
+<div id="info-panel">
+    <div class="close-btn" onclick="closePanel()">✕</div>
+    <div class="info-header">Selected ULPIN</div>
+    <div class="info-title" id="p-ulpin">--</div>
+    
+    <div class="info-row">
+        <span style="color: #aaa;">Building:</span>
+        <span id="p-bldg">--</span>
+    </div>
+    <div class="info-row">
+        <span style="color: #aaa;">Type:</span>
+        <span id="p-type">--</span>
+    </div>
+    <div class="info-row">
+        <span style="color: #aaa;">Floor / Unit:</span>
+        <span id="p-floor">--</span>
+    </div>
+    <div class="info-row">
+        <span style="color: #aaa;">Owner:</span>
+        <span id="p-owner">--</span>
+    </div>
+    <div class="info-row">
+        <span style="color: #aaa;">Tax Status:</span>
+        <span id="p-status" style="font-weight:bold;">--</span>
+    </div>
+</div>
+
+<div id="coords-box">Lng: 72.8652 | Lat: 19.0630</div>
+
+<script>
+    const map = new maplibregl.Map({
+        container: 'map',
+        style: 'https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json',
+        center: [72.8652, 19.0630],
+        zoom: 16.2,
+        pitch: 58,
+        bearing: -20,
+        doubleClickZoom: false,
+        antialias: true
+    });
+
+    let activeBuildingId = null;
+    let currentGap = 0;
+    const MAX_GAP = 12;
+    let animFrameId = null;
+    let savedCameraState = null;
+
+    function getFeatureCentroid(geometry) {
+        const ring = geometry.coordinates[0];
+        const count = ring.length - 1;
+        let sumLng = 0, sumLat = 0;
+        for (let i = 0; i < count; i++) {
+            sumLng += ring[i][0];
+            sumLat += ring[i][1];
+        }
+        return [sumLng / count, sumLat / count];
+    }
+
+    function animateExplosion(targetBuildingId, expand) {
+        if (animFrameId) cancelAnimationFrame(animFrameId);
+
+        if (expand) {
+            activeBuildingId = targetBuildingId;
+        }
+
+        const startGap = currentGap;
+        const targetGap = expand ? MAX_GAP : 0;
+        const duration = 400;
+        let startTime = null;
+
+        function step(timestamp) {
+            if (!startTime) startTime = timestamp;
+            const progress = Math.min((timestamp - startTime) / duration, 1);
+            const eased = 1 - Math.pow(1 - progress, 3);
+
+            currentGap = startGap + (targetGap - startGap) * eased;
+            const bldg = activeBuildingId || '';
+
+            map.setPaintProperty('floors-3d-layer', 'fill-extrusion-base', [
+                'case',
+                ['==', ['get', 'building_id'], bldg],
+                ['+', ['get', 'base_height'], ['*', ['get', 'floor'], currentGap]],
+                ['get', 'base_height']
+            ]);
+
+            map.setPaintProperty('floors-3d-layer', 'fill-extrusion-height', [
+                'case',
+                ['==', ['get', 'building_id'], bldg],
+                ['+', ['get', 'height'], ['*', ['get', 'floor'], currentGap]],
+                ['get', 'height']
+            ]);
+
+            if (progress < 1) {
+                animFrameId = requestAnimationFrame(step);
+            } else if (!expand) {
+                activeBuildingId = null;
+            }
+        }
+
+        animFrameId = requestAnimationFrame(step);
+    }
+
+    function closePanel() {
+        document.getElementById('info-panel').classList.remove('active');
+        if (activeBuildingId) {
+            animateExplosion(activeBuildingId, false);
+        }
+
+        if (savedCameraState) {
+            map.flyTo({
+                center: savedCameraState.center,
+                zoom: savedCameraState.zoom,
+                pitch: savedCameraState.pitch,
+                bearing: savedCameraState.bearing,
+                duration: 600,
+                essential: true
+            });
+            savedCameraState = null;
+        }
+    }
+
+    function updatePanel(props) {
+        document.getElementById('p-ulpin').innerText = props.ulpin;
+        document.getElementById('p-bldg').innerText = props.building_name;
+        document.getElementById('p-type').innerText = props.land_type;
+        document.getElementById('p-owner').innerText = props.owner;
+        
+        const statusEl = document.getElementById('p-status');
+        statusEl.innerText = props.tax_status;
+        statusEl.style.color = props.tax_status === 'Paid' ? '#2ECC71' : '#E74C3C';
+
+        document.getElementById('p-floor').innerText = `Floor ${props.floor} of ${props.total_floors}`;
+        document.getElementById('info-panel').classList.add('active');
+    }
+
+    map.on('load', () => {
+        map.addControl(new maplibregl.NavigationControl({ visualizePitch: true }));
+
+        map.addSource('ulpin-data', {
+            'type': 'geojson',
+            'data': './bkc_3d_ulpin.geojson'
+        });
+
+        map.addLayer({
+            'id': 'floors-3d-layer',
+            'type': 'fill-extrusion',
+            'source': 'ulpin-data',
+            'paint': {
+                'fill-extrusion-base': ['get', 'base_height'],
+                'fill-extrusion-height': ['get', 'height'],
+                'fill-extrusion-color': ['get', 'default_color'],
+                'fill-extrusion-opacity': 0.92
+            }
+        });
+
+        document.getElementById('taxToggle').addEventListener('change', (e) => {
+            map.setPaintProperty(
+                'floors-3d-layer',
+                'fill-extrusion-color',
+                e.target.checked ? ['get', 'tax_color'] : ['get', 'default_color']
+            );
+        });
+
+        map.on('mousemove', 'floors-3d-layer', () => {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+
+        map.on('mouseleave', 'floors-3d-layer', () => {
+            map.getCanvas().style.cursor = '';
+        });
+
+        map.on('click', 'floors-3d-layer', (e) => {
+            const feature = e.features[0];
+            const props = feature.properties;
+
+            if (!savedCameraState) {
+                savedCameraState = {
+                    center: map.getCenter(),
+                    zoom: map.getZoom(),
+                    pitch: map.getPitch(),
+                    bearing: map.getBearing()
+                };
+            }
+
+            updatePanel(props);
+
+            if (activeBuildingId !== props.building_id) {
+                animateExplosion(props.building_id, true);
+            }
+
+            const centroid = getFeatureCentroid(feature.geometry);
+            const dynamicZoom = 18.5 - (props.floor * 0.2);
+
+            map.flyTo({
+                center: centroid,
+                zoom: dynamicZoom,
+                pitch: 62,
+                bearing: map.getBearing(),
+                padding: { top: 150, bottom: 0, left: 0, right: 350 },
+                duration: 750,
+                essential: true
+            });
+        });
+
+        map.on('click', (e) => {
+            const features = map.queryRenderedFeatures(e.point, { layers: ['floors-3d-layer'] });
+            if (!features.length) {
+                closePanel();
+            }
+        });
+
+        map.on('mousemove', (e) => {
+            document.getElementById('coords-box').innerText = `Lng: ${e.lngLat.lng.toFixed(5)} | Lat: ${e.lngLat.lat.toFixed(5)}`;
+        });
+    });
+</script>
+</body>
+</html>
