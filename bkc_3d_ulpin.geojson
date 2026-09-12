@@ -648,9 +648,9 @@
         "total_floors": 9,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Priya Patel",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Ramesh Sharma",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -1302,7 +1302,7 @@
         "total_floors": 9,
         "base_height": 3.5,
         "height": 7.0,
-        "owner": "Vikram Shah",
+        "owner": "Neha Gupta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -1956,7 +1956,7 @@
         "total_floors": 9,
         "base_height": 7.0,
         "height": 10.5,
-        "owner": "Ananya Roy",
+        "owner": "Rajesh Mehta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -2610,9 +2610,9 @@
         "total_floors": 9,
         "base_height": 10.5,
         "height": 14.0,
-        "owner": "Amit Verma",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Sunita Deshmukh",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -3264,7 +3264,7 @@
         "total_floors": 9,
         "base_height": 14.0,
         "height": 17.5,
-        "owner": "Neha Gupta",
+        "owner": "Amit Verma",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -3918,9 +3918,9 @@
         "total_floors": 9,
         "base_height": 17.5,
         "height": 21.0,
-        "owner": "Priya Patel",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Amit Verma",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -4572,9 +4572,9 @@
         "total_floors": 9,
         "base_height": 21.0,
         "height": 24.5,
-        "owner": "Amit Verma",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Neha Gupta",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -5226,7 +5226,7 @@
         "total_floors": 9,
         "base_height": 24.5,
         "height": 28.0,
-        "owner": "Ananya Roy",
+        "owner": "Rajesh Mehta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -5880,7 +5880,7 @@
         "total_floors": 9,
         "base_height": 28.0,
         "height": 31.5,
-        "owner": "Ananya Roy",
+        "owner": "Neha Gupta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -5921,12 +5921,12 @@
         "building_id": "BKC-BLDG-1001",
         "building_name": "Jio World Residences",
         "floor": 1,
-        "total_floors": 12,
+        "total_floors": 14,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Ananya Roy",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Ramesh Sharma",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -5965,12 +5965,12 @@
         "building_id": "BKC-BLDG-1001",
         "building_name": "Jio World Residences",
         "floor": 2,
-        "total_floors": 12,
+        "total_floors": 14,
         "base_height": 3.5,
         "height": 7.0,
-        "owner": "Rajesh Mehta",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Priya Patel",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -6009,10 +6009,10 @@
         "building_id": "BKC-BLDG-1001",
         "building_name": "Jio World Residences",
         "floor": 3,
-        "total_floors": 12,
+        "total_floors": 14,
         "base_height": 7.0,
         "height": 10.5,
-        "owner": "Vikram Shah",
+        "owner": "Priya Patel",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -6053,10 +6053,10 @@
         "building_id": "BKC-BLDG-1001",
         "building_name": "Jio World Residences",
         "floor": 4,
-        "total_floors": 12,
+        "total_floors": 14,
         "base_height": 10.5,
         "height": 14.0,
-        "owner": "Amit Verma",
+        "owner": "Vikram Shah",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -6097,10 +6097,10 @@
         "building_id": "BKC-BLDG-1001",
         "building_name": "Jio World Residences",
         "floor": 5,
-        "total_floors": 12,
+        "total_floors": 14,
         "base_height": 14.0,
         "height": 17.5,
-        "owner": "Neha Gupta",
+        "owner": "Ananya Roy",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -6141,10 +6141,10 @@
         "building_id": "BKC-BLDG-1001",
         "building_name": "Jio World Residences",
         "floor": 6,
-        "total_floors": 12,
+        "total_floors": 14,
         "base_height": 17.5,
         "height": 21.0,
-        "owner": "Vikram Shah",
+        "owner": "Sunita Deshmukh",
         "tax_status": "Default",
         "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
@@ -6185,10 +6185,10 @@
         "building_id": "BKC-BLDG-1001",
         "building_name": "Jio World Residences",
         "floor": 7,
-        "total_floors": 12,
+        "total_floors": 14,
         "base_height": 21.0,
         "height": 24.5,
-        "owner": "Amit Verma",
+        "owner": "Ananya Roy",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -6229,12 +6229,12 @@
         "building_id": "BKC-BLDG-1001",
         "building_name": "Jio World Residences",
         "floor": 8,
-        "total_floors": 12,
+        "total_floors": 14,
         "base_height": 24.5,
         "height": 28.0,
-        "owner": "Neha Gupta",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Sunita Deshmukh",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -6273,10 +6273,10 @@
         "building_id": "BKC-BLDG-1001",
         "building_name": "Jio World Residences",
         "floor": 9,
-        "total_floors": 12,
+        "total_floors": 14,
         "base_height": 28.0,
         "height": 31.5,
-        "owner": "Ramesh Sharma",
+        "owner": "Neha Gupta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -6317,10 +6317,10 @@
         "building_id": "BKC-BLDG-1001",
         "building_name": "Jio World Residences",
         "floor": 10,
-        "total_floors": 12,
+        "total_floors": 14,
         "base_height": 31.5,
         "height": 35.0,
-        "owner": "Priya Patel",
+        "owner": "Sunita Deshmukh",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -6361,10 +6361,10 @@
         "building_id": "BKC-BLDG-1001",
         "building_name": "Jio World Residences",
         "floor": 11,
-        "total_floors": 12,
+        "total_floors": 14,
         "base_height": 35.0,
         "height": 38.5,
-        "owner": "Ananya Roy",
+        "owner": "Neha Gupta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -6405,10 +6405,98 @@
         "building_id": "BKC-BLDG-1001",
         "building_name": "Jio World Residences",
         "floor": 12,
-        "total_floors": 12,
+        "total_floors": 14,
         "base_height": 38.5,
         "height": 42.0,
-        "owner": "Priya Patel",
+        "owner": "Neha Gupta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.867277,
+              19.0623
+            ],
+            [
+              72.8671,
+              19.064237
+            ],
+            [
+              72.866552,
+              19.064193
+            ],
+            [
+              72.866729,
+              19.062256
+            ],
+            [
+              72.867277,
+              19.0623
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1001-F13-U1301",
+        "building_id": "BKC-BLDG-1001",
+        "building_name": "Jio World Residences",
+        "floor": 13,
+        "total_floors": 14,
+        "base_height": 42.0,
+        "height": 45.5,
+        "owner": "Amit Verma",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.867277,
+              19.0623
+            ],
+            [
+              72.8671,
+              19.064237
+            ],
+            [
+              72.866552,
+              19.064193
+            ],
+            [
+              72.866729,
+              19.062256
+            ],
+            [
+              72.867277,
+              19.0623
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1001-F14-U1401",
+        "building_id": "BKC-BLDG-1001",
+        "building_name": "Jio World Residences",
+        "floor": 14,
+        "total_floors": 14,
+        "base_height": 45.5,
+        "height": 49.0,
+        "owner": "Amit Verma",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -6453,10 +6541,10 @@
         "building_id": "BKC-BLDG-1002",
         "building_name": "Jio World Convention Centre",
         "floor": 1,
-        "total_floors": 6,
+        "total_floors": 13,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Priya Patel",
+        "owner": "Vikram Shah",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -6501,12 +6589,12 @@
         "building_id": "BKC-BLDG-1002",
         "building_name": "Jio World Convention Centre",
         "floor": 2,
-        "total_floors": 6,
+        "total_floors": 13,
         "base_height": 3.5,
         "height": 7.0,
         "owner": "Vikram Shah",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -6549,10 +6637,10 @@
         "building_id": "BKC-BLDG-1002",
         "building_name": "Jio World Convention Centre",
         "floor": 3,
-        "total_floors": 6,
+        "total_floors": 13,
         "base_height": 7.0,
         "height": 10.5,
-        "owner": "Ananya Roy",
+        "owner": "Vikram Shah",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -6597,12 +6685,12 @@
         "building_id": "BKC-BLDG-1002",
         "building_name": "Jio World Convention Centre",
         "floor": 4,
-        "total_floors": 6,
+        "total_floors": 13,
         "base_height": 10.5,
         "height": 14.0,
-        "owner": "Ramesh Sharma",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Neha Gupta",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -6645,10 +6733,10 @@
         "building_id": "BKC-BLDG-1002",
         "building_name": "Jio World Convention Centre",
         "floor": 5,
-        "total_floors": 6,
+        "total_floors": 13,
         "base_height": 14.0,
         "height": 17.5,
-        "owner": "Ananya Roy",
+        "owner": "Priya Patel",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -6693,10 +6781,346 @@
         "building_id": "BKC-BLDG-1002",
         "building_name": "Jio World Convention Centre",
         "floor": 6,
-        "total_floors": 6,
+        "total_floors": 13,
         "base_height": 17.5,
         "height": 21.0,
+        "owner": "Ramesh Sharma",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.867174,
+              19.064694
+            ],
+            [
+              72.867281,
+              19.063491
+            ],
+            [
+              72.867383,
+              19.062288
+            ],
+            [
+              72.867712,
+              19.062313
+            ],
+            [
+              72.867502,
+              19.06472
+            ],
+            [
+              72.867174,
+              19.064694
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1002-F07-U701",
+        "building_id": "BKC-BLDG-1002",
+        "building_name": "Jio World Convention Centre",
+        "floor": 7,
+        "total_floors": 13,
+        "base_height": 21.0,
+        "height": 24.5,
+        "owner": "Ramesh Sharma",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.867174,
+              19.064694
+            ],
+            [
+              72.867281,
+              19.063491
+            ],
+            [
+              72.867383,
+              19.062288
+            ],
+            [
+              72.867712,
+              19.062313
+            ],
+            [
+              72.867502,
+              19.06472
+            ],
+            [
+              72.867174,
+              19.064694
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1002-F08-U801",
+        "building_id": "BKC-BLDG-1002",
+        "building_name": "Jio World Convention Centre",
+        "floor": 8,
+        "total_floors": 13,
+        "base_height": 24.5,
+        "height": 28.0,
         "owner": "Priya Patel",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.867174,
+              19.064694
+            ],
+            [
+              72.867281,
+              19.063491
+            ],
+            [
+              72.867383,
+              19.062288
+            ],
+            [
+              72.867712,
+              19.062313
+            ],
+            [
+              72.867502,
+              19.06472
+            ],
+            [
+              72.867174,
+              19.064694
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1002-F09-U901",
+        "building_id": "BKC-BLDG-1002",
+        "building_name": "Jio World Convention Centre",
+        "floor": 9,
+        "total_floors": 13,
+        "base_height": 28.0,
+        "height": 31.5,
+        "owner": "Priya Patel",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.867174,
+              19.064694
+            ],
+            [
+              72.867281,
+              19.063491
+            ],
+            [
+              72.867383,
+              19.062288
+            ],
+            [
+              72.867712,
+              19.062313
+            ],
+            [
+              72.867502,
+              19.06472
+            ],
+            [
+              72.867174,
+              19.064694
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1002-F10-U1001",
+        "building_id": "BKC-BLDG-1002",
+        "building_name": "Jio World Convention Centre",
+        "floor": 10,
+        "total_floors": 13,
+        "base_height": 31.5,
+        "height": 35.0,
+        "owner": "Neha Gupta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.867174,
+              19.064694
+            ],
+            [
+              72.867281,
+              19.063491
+            ],
+            [
+              72.867383,
+              19.062288
+            ],
+            [
+              72.867712,
+              19.062313
+            ],
+            [
+              72.867502,
+              19.06472
+            ],
+            [
+              72.867174,
+              19.064694
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1002-F11-U1101",
+        "building_id": "BKC-BLDG-1002",
+        "building_name": "Jio World Convention Centre",
+        "floor": 11,
+        "total_floors": 13,
+        "base_height": 35.0,
+        "height": 38.5,
+        "owner": "Sunita Deshmukh",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.867174,
+              19.064694
+            ],
+            [
+              72.867281,
+              19.063491
+            ],
+            [
+              72.867383,
+              19.062288
+            ],
+            [
+              72.867712,
+              19.062313
+            ],
+            [
+              72.867502,
+              19.06472
+            ],
+            [
+              72.867174,
+              19.064694
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1002-F12-U1201",
+        "building_id": "BKC-BLDG-1002",
+        "building_name": "Jio World Convention Centre",
+        "floor": 12,
+        "total_floors": 13,
+        "base_height": 38.5,
+        "height": 42.0,
+        "owner": "Neha Gupta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.867174,
+              19.064694
+            ],
+            [
+              72.867281,
+              19.063491
+            ],
+            [
+              72.867383,
+              19.062288
+            ],
+            [
+              72.867712,
+              19.062313
+            ],
+            [
+              72.867502,
+              19.06472
+            ],
+            [
+              72.867174,
+              19.064694
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1002-F13-U1301",
+        "building_id": "BKC-BLDG-1002",
+        "building_name": "Jio World Convention Centre",
+        "floor": 13,
+        "total_floors": 13,
+        "base_height": 42.0,
+        "height": 45.5,
+        "owner": "Amit Verma",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -6748,7 +7172,7 @@
         "total_floors": 14,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Vikram Shah",
+        "owner": "Neha Gupta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -6800,7 +7224,7 @@
         "total_floors": 14,
         "base_height": 3.5,
         "height": 7.0,
-        "owner": "Ramesh Sharma",
+        "owner": "Rajesh Mehta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -6852,7 +7276,7 @@
         "total_floors": 14,
         "base_height": 7.0,
         "height": 10.5,
-        "owner": "Ramesh Sharma",
+        "owner": "Sunita Deshmukh",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -6904,7 +7328,7 @@
         "total_floors": 14,
         "base_height": 10.5,
         "height": 14.0,
-        "owner": "Sunita Deshmukh",
+        "owner": "Ramesh Sharma",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -6956,7 +7380,7 @@
         "total_floors": 14,
         "base_height": 14.0,
         "height": 17.5,
-        "owner": "Neha Gupta",
+        "owner": "Rajesh Mehta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -7008,9 +7432,9 @@
         "total_floors": 14,
         "base_height": 17.5,
         "height": 21.0,
-        "owner": "Rajesh Mehta",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Ramesh Sharma",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -7060,9 +7484,9 @@
         "total_floors": 14,
         "base_height": 21.0,
         "height": 24.5,
-        "owner": "Ramesh Sharma",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Amit Verma",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -7112,9 +7536,9 @@
         "total_floors": 14,
         "base_height": 24.5,
         "height": 28.0,
-        "owner": "Vikram Shah",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Priya Patel",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -7164,7 +7588,7 @@
         "total_floors": 14,
         "base_height": 28.0,
         "height": 31.5,
-        "owner": "Priya Patel",
+        "owner": "Ananya Roy",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -7268,9 +7692,9 @@
         "total_floors": 14,
         "base_height": 35.0,
         "height": 38.5,
-        "owner": "Vikram Shah",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Sunita Deshmukh",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -7320,9 +7744,9 @@
         "total_floors": 14,
         "base_height": 38.5,
         "height": 42.0,
-        "owner": "Amit Verma",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Sunita Deshmukh",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -7372,7 +7796,7 @@
         "total_floors": 14,
         "base_height": 42.0,
         "height": 45.5,
-        "owner": "Vikram Shah",
+        "owner": "Amit Verma",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -7424,9 +7848,9 @@
         "total_floors": 14,
         "base_height": 45.5,
         "height": 49.0,
-        "owner": "Priya Patel",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Neha Gupta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -7473,10 +7897,10 @@
         "building_id": "BKC-BLDG-1004",
         "building_name": "One BKC",
         "floor": 1,
-        "total_floors": 9,
+        "total_floors": 10,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Sunita Deshmukh",
+        "owner": "Rajesh Mehta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -7525,10 +7949,10 @@
         "building_id": "BKC-BLDG-1004",
         "building_name": "One BKC",
         "floor": 2,
-        "total_floors": 9,
+        "total_floors": 10,
         "base_height": 3.5,
         "height": 7.0,
-        "owner": "Neha Gupta",
+        "owner": "Amit Verma",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -7577,10 +8001,10 @@
         "building_id": "BKC-BLDG-1004",
         "building_name": "One BKC",
         "floor": 3,
-        "total_floors": 9,
+        "total_floors": 10,
         "base_height": 7.0,
         "height": 10.5,
-        "owner": "Amit Verma",
+        "owner": "Rajesh Mehta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -7629,10 +8053,10 @@
         "building_id": "BKC-BLDG-1004",
         "building_name": "One BKC",
         "floor": 4,
-        "total_floors": 9,
+        "total_floors": 10,
         "base_height": 10.5,
         "height": 14.0,
-        "owner": "Rajesh Mehta",
+        "owner": "Neha Gupta",
         "tax_status": "Default",
         "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
@@ -7681,10 +8105,10 @@
         "building_id": "BKC-BLDG-1004",
         "building_name": "One BKC",
         "floor": 5,
-        "total_floors": 9,
+        "total_floors": 10,
         "base_height": 14.0,
         "height": 17.5,
-        "owner": "Neha Gupta",
+        "owner": "Vikram Shah",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -7733,12 +8157,12 @@
         "building_id": "BKC-BLDG-1004",
         "building_name": "One BKC",
         "floor": 6,
-        "total_floors": 9,
+        "total_floors": 10,
         "base_height": 17.5,
         "height": 21.0,
-        "owner": "Sunita Deshmukh",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Ramesh Sharma",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -7785,10 +8209,10 @@
         "building_id": "BKC-BLDG-1004",
         "building_name": "One BKC",
         "floor": 7,
-        "total_floors": 9,
+        "total_floors": 10,
         "base_height": 21.0,
         "height": 24.5,
-        "owner": "Ramesh Sharma",
+        "owner": "Vikram Shah",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -7837,10 +8261,10 @@
         "building_id": "BKC-BLDG-1004",
         "building_name": "One BKC",
         "floor": 8,
-        "total_floors": 9,
+        "total_floors": 10,
         "base_height": 24.5,
         "height": 28.0,
-        "owner": "Rajesh Mehta",
+        "owner": "Amit Verma",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -7889,10 +8313,62 @@
         "building_id": "BKC-BLDG-1004",
         "building_name": "One BKC",
         "floor": 9,
-        "total_floors": 9,
+        "total_floors": 10,
         "base_height": 28.0,
         "height": 31.5,
-        "owner": "Ramesh Sharma",
+        "owner": "Vikram Shah",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.864516,
+              19.060927
+            ],
+            [
+              72.864545,
+              19.060519
+            ],
+            [
+              72.865016,
+              19.06053
+            ],
+            [
+              72.865044,
+              19.06012
+            ],
+            [
+              72.865554,
+              19.060164
+            ],
+            [
+              72.865513,
+              19.061004
+            ],
+            [
+              72.864516,
+              19.060927
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1004-F10-U1001",
+        "building_id": "BKC-BLDG-1004",
+        "building_name": "One BKC",
+        "floor": 10,
+        "total_floors": 10,
+        "base_height": 31.5,
+        "height": 35.0,
+        "owner": "Sunita Deshmukh",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -7937,12 +8413,12 @@
         "building_id": "BKC-BLDG-1005",
         "building_name": "National Stock Exchange",
         "floor": 1,
-        "total_floors": 8,
+        "total_floors": 12,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Ananya Roy",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Priya Patel",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -7985,10 +8461,10 @@
         "building_id": "BKC-BLDG-1005",
         "building_name": "National Stock Exchange",
         "floor": 2,
-        "total_floors": 8,
+        "total_floors": 12,
         "base_height": 3.5,
         "height": 7.0,
-        "owner": "Ananya Roy",
+        "owner": "Rajesh Mehta",
         "tax_status": "Default",
         "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
@@ -8033,10 +8509,10 @@
         "building_id": "BKC-BLDG-1005",
         "building_name": "National Stock Exchange",
         "floor": 3,
-        "total_floors": 8,
+        "total_floors": 12,
         "base_height": 7.0,
         "height": 10.5,
-        "owner": "Neha Gupta",
+        "owner": "Vikram Shah",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -8081,12 +8557,12 @@
         "building_id": "BKC-BLDG-1005",
         "building_name": "National Stock Exchange",
         "floor": 4,
-        "total_floors": 8,
+        "total_floors": 12,
         "base_height": 10.5,
         "height": 14.0,
-        "owner": "Amit Verma",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Rajesh Mehta",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -8129,12 +8605,12 @@
         "building_id": "BKC-BLDG-1005",
         "building_name": "National Stock Exchange",
         "floor": 5,
-        "total_floors": 8,
+        "total_floors": 12,
         "base_height": 14.0,
         "height": 17.5,
-        "owner": "Neha Gupta",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Rajesh Mehta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -8177,12 +8653,12 @@
         "building_id": "BKC-BLDG-1005",
         "building_name": "National Stock Exchange",
         "floor": 6,
-        "total_floors": 8,
+        "total_floors": 12,
         "base_height": 17.5,
         "height": 21.0,
-        "owner": "Ramesh Sharma",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Ananya Roy",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -8225,12 +8701,12 @@
         "building_id": "BKC-BLDG-1005",
         "building_name": "National Stock Exchange",
         "floor": 7,
-        "total_floors": 8,
+        "total_floors": 12,
         "base_height": 21.0,
         "height": 24.5,
-        "owner": "Vikram Shah",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Ananya Roy",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -8273,10 +8749,202 @@
         "building_id": "BKC-BLDG-1005",
         "building_name": "National Stock Exchange",
         "floor": 8,
-        "total_floors": 8,
+        "total_floors": 12,
         "base_height": 24.5,
         "height": 28.0,
         "owner": "Ramesh Sharma",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.859494,
+              19.060067
+            ],
+            [
+              72.86018,
+              19.059805
+            ],
+            [
+              72.860341,
+              19.060481
+            ],
+            [
+              72.859615,
+              19.060748
+            ],
+            [
+              72.859413,
+              19.060318
+            ],
+            [
+              72.859494,
+              19.060067
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1005-F09-U901",
+        "building_id": "BKC-BLDG-1005",
+        "building_name": "National Stock Exchange",
+        "floor": 9,
+        "total_floors": 12,
+        "base_height": 28.0,
+        "height": 31.5,
+        "owner": "Ramesh Sharma",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.859494,
+              19.060067
+            ],
+            [
+              72.86018,
+              19.059805
+            ],
+            [
+              72.860341,
+              19.060481
+            ],
+            [
+              72.859615,
+              19.060748
+            ],
+            [
+              72.859413,
+              19.060318
+            ],
+            [
+              72.859494,
+              19.060067
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1005-F10-U1001",
+        "building_id": "BKC-BLDG-1005",
+        "building_name": "National Stock Exchange",
+        "floor": 10,
+        "total_floors": 12,
+        "base_height": 31.5,
+        "height": 35.0,
+        "owner": "Vikram Shah",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.859494,
+              19.060067
+            ],
+            [
+              72.86018,
+              19.059805
+            ],
+            [
+              72.860341,
+              19.060481
+            ],
+            [
+              72.859615,
+              19.060748
+            ],
+            [
+              72.859413,
+              19.060318
+            ],
+            [
+              72.859494,
+              19.060067
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1005-F11-U1101",
+        "building_id": "BKC-BLDG-1005",
+        "building_name": "National Stock Exchange",
+        "floor": 11,
+        "total_floors": 12,
+        "base_height": 35.0,
+        "height": 38.5,
+        "owner": "Amit Verma",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.859494,
+              19.060067
+            ],
+            [
+              72.86018,
+              19.059805
+            ],
+            [
+              72.860341,
+              19.060481
+            ],
+            [
+              72.859615,
+              19.060748
+            ],
+            [
+              72.859413,
+              19.060318
+            ],
+            [
+              72.859494,
+              19.060067
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1005-F12-U1201",
+        "building_id": "BKC-BLDG-1005",
+        "building_name": "National Stock Exchange",
+        "floor": 12,
+        "total_floors": 12,
+        "base_height": 38.5,
+        "height": 42.0,
+        "owner": "Amit Verma",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -8397,12 +9065,12 @@
         "building_id": "BKC-BLDG-1006",
         "building_name": "Laxmi Tower",
         "floor": 1,
-        "total_floors": 11,
+        "total_floors": 7,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Amit Verma",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Rajesh Mehta",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -8521,12 +9189,12 @@
         "building_id": "BKC-BLDG-1006",
         "building_name": "Laxmi Tower",
         "floor": 2,
-        "total_floors": 11,
+        "total_floors": 7,
         "base_height": 3.5,
         "height": 7.0,
-        "owner": "Rajesh Mehta",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Vikram Shah",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -8645,7 +9313,7 @@
         "building_id": "BKC-BLDG-1006",
         "building_name": "Laxmi Tower",
         "floor": 3,
-        "total_floors": 11,
+        "total_floors": 7,
         "base_height": 7.0,
         "height": 10.5,
         "owner": "Ramesh Sharma",
@@ -8769,12 +9437,12 @@
         "building_id": "BKC-BLDG-1006",
         "building_name": "Laxmi Tower",
         "floor": 4,
-        "total_floors": 11,
+        "total_floors": 7,
         "base_height": 10.5,
         "height": 14.0,
-        "owner": "Ramesh Sharma",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Neha Gupta",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -8893,10 +9561,10 @@
         "building_id": "BKC-BLDG-1006",
         "building_name": "Laxmi Tower",
         "floor": 5,
-        "total_floors": 11,
+        "total_floors": 7,
         "base_height": 14.0,
         "height": 17.5,
-        "owner": "Priya Patel",
+        "owner": "Ramesh Sharma",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -9017,12 +9685,12 @@
         "building_id": "BKC-BLDG-1006",
         "building_name": "Laxmi Tower",
         "floor": 6,
-        "total_floors": 11,
+        "total_floors": 7,
         "base_height": 17.5,
         "height": 21.0,
-        "owner": "Amit Verma",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Rajesh Mehta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -9141,508 +9809,12 @@
         "building_id": "BKC-BLDG-1006",
         "building_name": "Laxmi Tower",
         "floor": 7,
-        "total_floors": 11,
+        "total_floors": 7,
         "base_height": 21.0,
         "height": 24.5,
-        "owner": "Ramesh Sharma",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
-        "default_color": "#3A3A3A",
-        "land_type": "Residential"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72.863452,
-              19.063156
-            ],
-            [
-              72.863797,
-              19.062878
-            ],
-            [
-              72.863834,
-              19.062812
-            ],
-            [
-              72.864028,
-              19.062684
-            ],
-            [
-              72.864089,
-              19.062636
-            ],
-            [
-              72.864155,
-              19.062613
-            ],
-            [
-              72.864209,
-              19.062664
-            ],
-            [
-              72.864311,
-              19.062574
-            ],
-            [
-              72.86434,
-              19.06261
-            ],
-            [
-              72.864404,
-              19.06257
-            ],
-            [
-              72.864429,
-              19.062601
-            ],
-            [
-              72.864472,
-              19.062591
-            ],
-            [
-              72.864517,
-              19.062615
-            ],
-            [
-              72.86453,
-              19.062649
-            ],
-            [
-              72.864529,
-              19.062687
-            ],
-            [
-              72.864506,
-              19.062723
-            ],
-            [
-              72.864632,
-              19.062848
-            ],
-            [
-              72.864405,
-              19.063051
-            ],
-            [
-              72.864361,
-              19.063007
-            ],
-            [
-              72.86398,
-              19.063347
-            ],
-            [
-              72.864039,
-              19.063406
-            ],
-            [
-              72.863841,
-              19.063573
-            ],
-            [
-              72.863665,
-              19.063377
-            ],
-            [
-              72.863634,
-              19.063336
-            ],
-            [
-              72.863452,
-              19.063156
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "ulpin": "27-BKC-1006-F08-U801",
-        "building_id": "BKC-BLDG-1006",
-        "building_name": "Laxmi Tower",
-        "floor": 8,
-        "total_floors": 11,
-        "base_height": 24.5,
-        "height": 28.0,
-        "owner": "Rajesh Mehta",
+        "owner": "Vikram Shah",
         "tax_status": "Default",
         "tax_color": "#E74C3C",
-        "default_color": "#3A3A3A",
-        "land_type": "Residential"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72.863452,
-              19.063156
-            ],
-            [
-              72.863797,
-              19.062878
-            ],
-            [
-              72.863834,
-              19.062812
-            ],
-            [
-              72.864028,
-              19.062684
-            ],
-            [
-              72.864089,
-              19.062636
-            ],
-            [
-              72.864155,
-              19.062613
-            ],
-            [
-              72.864209,
-              19.062664
-            ],
-            [
-              72.864311,
-              19.062574
-            ],
-            [
-              72.86434,
-              19.06261
-            ],
-            [
-              72.864404,
-              19.06257
-            ],
-            [
-              72.864429,
-              19.062601
-            ],
-            [
-              72.864472,
-              19.062591
-            ],
-            [
-              72.864517,
-              19.062615
-            ],
-            [
-              72.86453,
-              19.062649
-            ],
-            [
-              72.864529,
-              19.062687
-            ],
-            [
-              72.864506,
-              19.062723
-            ],
-            [
-              72.864632,
-              19.062848
-            ],
-            [
-              72.864405,
-              19.063051
-            ],
-            [
-              72.864361,
-              19.063007
-            ],
-            [
-              72.86398,
-              19.063347
-            ],
-            [
-              72.864039,
-              19.063406
-            ],
-            [
-              72.863841,
-              19.063573
-            ],
-            [
-              72.863665,
-              19.063377
-            ],
-            [
-              72.863634,
-              19.063336
-            ],
-            [
-              72.863452,
-              19.063156
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "ulpin": "27-BKC-1006-F09-U901",
-        "building_id": "BKC-BLDG-1006",
-        "building_name": "Laxmi Tower",
-        "floor": 9,
-        "total_floors": 11,
-        "base_height": 28.0,
-        "height": 31.5,
-        "owner": "Vikram Shah",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
-        "default_color": "#3A3A3A",
-        "land_type": "Residential"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72.863452,
-              19.063156
-            ],
-            [
-              72.863797,
-              19.062878
-            ],
-            [
-              72.863834,
-              19.062812
-            ],
-            [
-              72.864028,
-              19.062684
-            ],
-            [
-              72.864089,
-              19.062636
-            ],
-            [
-              72.864155,
-              19.062613
-            ],
-            [
-              72.864209,
-              19.062664
-            ],
-            [
-              72.864311,
-              19.062574
-            ],
-            [
-              72.86434,
-              19.06261
-            ],
-            [
-              72.864404,
-              19.06257
-            ],
-            [
-              72.864429,
-              19.062601
-            ],
-            [
-              72.864472,
-              19.062591
-            ],
-            [
-              72.864517,
-              19.062615
-            ],
-            [
-              72.86453,
-              19.062649
-            ],
-            [
-              72.864529,
-              19.062687
-            ],
-            [
-              72.864506,
-              19.062723
-            ],
-            [
-              72.864632,
-              19.062848
-            ],
-            [
-              72.864405,
-              19.063051
-            ],
-            [
-              72.864361,
-              19.063007
-            ],
-            [
-              72.86398,
-              19.063347
-            ],
-            [
-              72.864039,
-              19.063406
-            ],
-            [
-              72.863841,
-              19.063573
-            ],
-            [
-              72.863665,
-              19.063377
-            ],
-            [
-              72.863634,
-              19.063336
-            ],
-            [
-              72.863452,
-              19.063156
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "ulpin": "27-BKC-1006-F10-U1001",
-        "building_id": "BKC-BLDG-1006",
-        "building_name": "Laxmi Tower",
-        "floor": 10,
-        "total_floors": 11,
-        "base_height": 31.5,
-        "height": 35.0,
-        "owner": "Sunita Deshmukh",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
-        "default_color": "#3A3A3A",
-        "land_type": "Residential"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72.863452,
-              19.063156
-            ],
-            [
-              72.863797,
-              19.062878
-            ],
-            [
-              72.863834,
-              19.062812
-            ],
-            [
-              72.864028,
-              19.062684
-            ],
-            [
-              72.864089,
-              19.062636
-            ],
-            [
-              72.864155,
-              19.062613
-            ],
-            [
-              72.864209,
-              19.062664
-            ],
-            [
-              72.864311,
-              19.062574
-            ],
-            [
-              72.86434,
-              19.06261
-            ],
-            [
-              72.864404,
-              19.06257
-            ],
-            [
-              72.864429,
-              19.062601
-            ],
-            [
-              72.864472,
-              19.062591
-            ],
-            [
-              72.864517,
-              19.062615
-            ],
-            [
-              72.86453,
-              19.062649
-            ],
-            [
-              72.864529,
-              19.062687
-            ],
-            [
-              72.864506,
-              19.062723
-            ],
-            [
-              72.864632,
-              19.062848
-            ],
-            [
-              72.864405,
-              19.063051
-            ],
-            [
-              72.864361,
-              19.063007
-            ],
-            [
-              72.86398,
-              19.063347
-            ],
-            [
-              72.864039,
-              19.063406
-            ],
-            [
-              72.863841,
-              19.063573
-            ],
-            [
-              72.863665,
-              19.063377
-            ],
-            [
-              72.863634,
-              19.063336
-            ],
-            [
-              72.863452,
-              19.063156
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "ulpin": "27-BKC-1006-F11-U1101",
-        "building_id": "BKC-BLDG-1006",
-        "building_name": "Laxmi Tower",
-        "floor": 11,
-        "total_floors": 11,
-        "base_height": 35.0,
-        "height": 38.5,
-        "owner": "Rajesh Mehta",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -9681,10 +9853,10 @@
         "building_id": "BKC-BLDG-1007",
         "building_name": "BKC Block 8",
         "floor": 1,
-        "total_floors": 8,
+        "total_floors": 14,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Amit Verma",
+        "owner": "Ramesh Sharma",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -9725,12 +9897,12 @@
         "building_id": "BKC-BLDG-1007",
         "building_name": "BKC Block 8",
         "floor": 2,
-        "total_floors": 8,
+        "total_floors": 14,
         "base_height": 3.5,
         "height": 7.0,
-        "owner": "Amit Verma",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Sunita Deshmukh",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -9769,12 +9941,12 @@
         "building_id": "BKC-BLDG-1007",
         "building_name": "BKC Block 8",
         "floor": 3,
-        "total_floors": 8,
+        "total_floors": 14,
         "base_height": 7.0,
         "height": 10.5,
-        "owner": "Vikram Shah",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Neha Gupta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -9813,12 +9985,12 @@
         "building_id": "BKC-BLDG-1007",
         "building_name": "BKC Block 8",
         "floor": 4,
-        "total_floors": 8,
+        "total_floors": 14,
         "base_height": 10.5,
         "height": 14.0,
-        "owner": "Rajesh Mehta",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Sunita Deshmukh",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -9857,7 +10029,7 @@
         "building_id": "BKC-BLDG-1007",
         "building_name": "BKC Block 8",
         "floor": 5,
-        "total_floors": 8,
+        "total_floors": 14,
         "base_height": 14.0,
         "height": 17.5,
         "owner": "Sunita Deshmukh",
@@ -9901,12 +10073,12 @@
         "building_id": "BKC-BLDG-1007",
         "building_name": "BKC Block 8",
         "floor": 6,
-        "total_floors": 8,
+        "total_floors": 14,
         "base_height": 17.5,
         "height": 21.0,
-        "owner": "Sunita Deshmukh",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Priya Patel",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -9945,12 +10117,12 @@
         "building_id": "BKC-BLDG-1007",
         "building_name": "BKC Block 8",
         "floor": 7,
-        "total_floors": 8,
+        "total_floors": 14,
         "base_height": 21.0,
         "height": 24.5,
-        "owner": "Rajesh Mehta",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Ananya Roy",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -9989,10 +10161,274 @@
         "building_id": "BKC-BLDG-1007",
         "building_name": "BKC Block 8",
         "floor": 8,
-        "total_floors": 8,
+        "total_floors": 14,
         "base_height": 24.5,
         "height": 28.0,
-        "owner": "Rajesh Mehta",
+        "owner": "Neha Gupta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.86048,
+              19.063482
+            ],
+            [
+              72.860072,
+              19.062719
+            ],
+            [
+              72.860613,
+              19.06246
+            ],
+            [
+              72.861021,
+              19.063224
+            ],
+            [
+              72.86048,
+              19.063482
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1007-F09-U901",
+        "building_id": "BKC-BLDG-1007",
+        "building_name": "BKC Block 8",
+        "floor": 9,
+        "total_floors": 14,
+        "base_height": 28.0,
+        "height": 31.5,
+        "owner": "Neha Gupta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.86048,
+              19.063482
+            ],
+            [
+              72.860072,
+              19.062719
+            ],
+            [
+              72.860613,
+              19.06246
+            ],
+            [
+              72.861021,
+              19.063224
+            ],
+            [
+              72.86048,
+              19.063482
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1007-F10-U1001",
+        "building_id": "BKC-BLDG-1007",
+        "building_name": "BKC Block 8",
+        "floor": 10,
+        "total_floors": 14,
+        "base_height": 31.5,
+        "height": 35.0,
+        "owner": "Ramesh Sharma",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.86048,
+              19.063482
+            ],
+            [
+              72.860072,
+              19.062719
+            ],
+            [
+              72.860613,
+              19.06246
+            ],
+            [
+              72.861021,
+              19.063224
+            ],
+            [
+              72.86048,
+              19.063482
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1007-F11-U1101",
+        "building_id": "BKC-BLDG-1007",
+        "building_name": "BKC Block 8",
+        "floor": 11,
+        "total_floors": 14,
+        "base_height": 35.0,
+        "height": 38.5,
+        "owner": "Neha Gupta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.86048,
+              19.063482
+            ],
+            [
+              72.860072,
+              19.062719
+            ],
+            [
+              72.860613,
+              19.06246
+            ],
+            [
+              72.861021,
+              19.063224
+            ],
+            [
+              72.86048,
+              19.063482
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1007-F12-U1201",
+        "building_id": "BKC-BLDG-1007",
+        "building_name": "BKC Block 8",
+        "floor": 12,
+        "total_floors": 14,
+        "base_height": 38.5,
+        "height": 42.0,
+        "owner": "Vikram Shah",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.86048,
+              19.063482
+            ],
+            [
+              72.860072,
+              19.062719
+            ],
+            [
+              72.860613,
+              19.06246
+            ],
+            [
+              72.861021,
+              19.063224
+            ],
+            [
+              72.86048,
+              19.063482
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1007-F13-U1301",
+        "building_id": "BKC-BLDG-1007",
+        "building_name": "BKC Block 8",
+        "floor": 13,
+        "total_floors": 14,
+        "base_height": 42.0,
+        "height": 45.5,
+        "owner": "Sunita Deshmukh",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.86048,
+              19.063482
+            ],
+            [
+              72.860072,
+              19.062719
+            ],
+            [
+              72.860613,
+              19.06246
+            ],
+            [
+              72.861021,
+              19.063224
+            ],
+            [
+              72.86048,
+              19.063482
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1007-F14-U1401",
+        "building_id": "BKC-BLDG-1007",
+        "building_name": "BKC Block 8",
+        "floor": 14,
+        "total_floors": 14,
+        "base_height": 45.5,
+        "height": 49.0,
+        "owner": "Amit Verma",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -10076,7 +10512,7 @@
         "total_floors": 6,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Rajesh Mehta",
+        "owner": "Priya Patel",
         "tax_status": "Default",
         "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
@@ -10160,7 +10596,7 @@
         "total_floors": 6,
         "base_height": 3.5,
         "height": 7.0,
-        "owner": "Ramesh Sharma",
+        "owner": "Amit Verma",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -10244,9 +10680,9 @@
         "total_floors": 6,
         "base_height": 7.0,
         "height": 10.5,
-        "owner": "Priya Patel",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Sunita Deshmukh",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -10328,7 +10764,7 @@
         "total_floors": 6,
         "base_height": 10.5,
         "height": 14.0,
-        "owner": "Neha Gupta",
+        "owner": "Amit Verma",
         "tax_status": "Default",
         "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
@@ -10412,7 +10848,7 @@
         "total_floors": 6,
         "base_height": 14.0,
         "height": 17.5,
-        "owner": "Amit Verma",
+        "owner": "Ananya Roy",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -10496,7 +10932,7 @@
         "total_floors": 6,
         "base_height": 17.5,
         "height": 21.0,
-        "owner": "Ananya Roy",
+        "owner": "Sunita Deshmukh",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -10545,10 +10981,10 @@
         "building_id": "BKC-BLDG-1009",
         "building_name": "BKC Block 10",
         "floor": 1,
-        "total_floors": 14,
+        "total_floors": 11,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Priya Patel",
+        "owner": "Neha Gupta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -10597,12 +11033,12 @@
         "building_id": "BKC-BLDG-1009",
         "building_name": "BKC Block 10",
         "floor": 2,
-        "total_floors": 14,
+        "total_floors": 11,
         "base_height": 3.5,
         "height": 7.0,
-        "owner": "Amit Verma",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Sunita Deshmukh",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -10649,7 +11085,7 @@
         "building_id": "BKC-BLDG-1009",
         "building_name": "BKC Block 10",
         "floor": 3,
-        "total_floors": 14,
+        "total_floors": 11,
         "base_height": 7.0,
         "height": 10.5,
         "owner": "Ramesh Sharma",
@@ -10701,7 +11137,7 @@
         "building_id": "BKC-BLDG-1009",
         "building_name": "BKC Block 10",
         "floor": 4,
-        "total_floors": 14,
+        "total_floors": 11,
         "base_height": 10.5,
         "height": 14.0,
         "owner": "Priya Patel",
@@ -10753,10 +11189,10 @@
         "building_id": "BKC-BLDG-1009",
         "building_name": "BKC Block 10",
         "floor": 5,
-        "total_floors": 14,
+        "total_floors": 11,
         "base_height": 14.0,
         "height": 17.5,
-        "owner": "Priya Patel",
+        "owner": "Neha Gupta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -10805,12 +11241,12 @@
         "building_id": "BKC-BLDG-1009",
         "building_name": "BKC Block 10",
         "floor": 6,
-        "total_floors": 14,
+        "total_floors": 11,
         "base_height": 17.5,
         "height": 21.0,
-        "owner": "Ramesh Sharma",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Ananya Roy",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -10857,10 +11293,10 @@
         "building_id": "BKC-BLDG-1009",
         "building_name": "BKC Block 10",
         "floor": 7,
-        "total_floors": 14,
+        "total_floors": 11,
         "base_height": 21.0,
         "height": 24.5,
-        "owner": "Amit Verma",
+        "owner": "Vikram Shah",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -10909,12 +11345,12 @@
         "building_id": "BKC-BLDG-1009",
         "building_name": "BKC Block 10",
         "floor": 8,
-        "total_floors": 14,
+        "total_floors": 11,
         "base_height": 24.5,
         "height": 28.0,
-        "owner": "Amit Verma",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Ananya Roy",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -10961,10 +11397,10 @@
         "building_id": "BKC-BLDG-1009",
         "building_name": "BKC Block 10",
         "floor": 9,
-        "total_floors": 14,
+        "total_floors": 11,
         "base_height": 28.0,
         "height": 31.5,
-        "owner": "Ramesh Sharma",
+        "owner": "Rajesh Mehta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -11013,7 +11449,7 @@
         "building_id": "BKC-BLDG-1009",
         "building_name": "BKC Block 10",
         "floor": 10,
-        "total_floors": 14,
+        "total_floors": 11,
         "base_height": 31.5,
         "height": 35.0,
         "owner": "Ananya Roy",
@@ -11065,165 +11501,9 @@
         "building_id": "BKC-BLDG-1009",
         "building_name": "BKC Block 10",
         "floor": 11,
-        "total_floors": 14,
+        "total_floors": 11,
         "base_height": 35.0,
         "height": 38.5,
-        "owner": "Priya Patel",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
-        "default_color": "#3A3A3A",
-        "land_type": "Residential"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72.86673,
-              19.059203
-            ],
-            [
-              72.867192,
-              19.058958
-            ],
-            [
-              72.867386,
-              19.059386
-            ],
-            [
-              72.867643,
-              19.059797
-            ],
-            [
-              72.86718,
-              19.060013
-            ],
-            [
-              72.867033,
-              19.059677
-            ],
-            [
-              72.86673,
-              19.059203
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "ulpin": "27-BKC-1009-F12-U1201",
-        "building_id": "BKC-BLDG-1009",
-        "building_name": "BKC Block 10",
-        "floor": 12,
-        "total_floors": 14,
-        "base_height": 38.5,
-        "height": 42.0,
-        "owner": "Priya Patel",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
-        "default_color": "#3A3A3A",
-        "land_type": "Residential"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72.86673,
-              19.059203
-            ],
-            [
-              72.867192,
-              19.058958
-            ],
-            [
-              72.867386,
-              19.059386
-            ],
-            [
-              72.867643,
-              19.059797
-            ],
-            [
-              72.86718,
-              19.060013
-            ],
-            [
-              72.867033,
-              19.059677
-            ],
-            [
-              72.86673,
-              19.059203
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "ulpin": "27-BKC-1009-F13-U1301",
-        "building_id": "BKC-BLDG-1009",
-        "building_name": "BKC Block 10",
-        "floor": 13,
-        "total_floors": 14,
-        "base_height": 42.0,
-        "height": 45.5,
-        "owner": "Ananya Roy",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
-        "default_color": "#3A3A3A",
-        "land_type": "Residential"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72.86673,
-              19.059203
-            ],
-            [
-              72.867192,
-              19.058958
-            ],
-            [
-              72.867386,
-              19.059386
-            ],
-            [
-              72.867643,
-              19.059797
-            ],
-            [
-              72.86718,
-              19.060013
-            ],
-            [
-              72.867033,
-              19.059677
-            ],
-            [
-              72.86673,
-              19.059203
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "ulpin": "27-BKC-1009-F14-U1401",
-        "building_id": "BKC-BLDG-1009",
-        "building_name": "BKC Block 10",
-        "floor": 14,
-        "total_floors": 14,
-        "base_height": 45.5,
-        "height": 49.0,
         "owner": "Priya Patel",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
@@ -11281,10 +11561,10 @@
         "building_id": "BKC-BLDG-1010",
         "building_name": "BKC Block 11",
         "floor": 1,
-        "total_floors": 15,
+        "total_floors": 6,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Rajesh Mehta",
+        "owner": "Sunita Deshmukh",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -11341,12 +11621,12 @@
         "building_id": "BKC-BLDG-1010",
         "building_name": "BKC Block 11",
         "floor": 2,
-        "total_floors": 15,
+        "total_floors": 6,
         "base_height": 3.5,
         "height": 7.0,
-        "owner": "Ananya Roy",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Ramesh Sharma",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -11401,7 +11681,7 @@
         "building_id": "BKC-BLDG-1010",
         "building_name": "BKC Block 11",
         "floor": 3,
-        "total_floors": 15,
+        "total_floors": 6,
         "base_height": 7.0,
         "height": 10.5,
         "owner": "Rajesh Mehta",
@@ -11461,12 +11741,12 @@
         "building_id": "BKC-BLDG-1010",
         "building_name": "BKC Block 11",
         "floor": 4,
-        "total_floors": 15,
+        "total_floors": 6,
         "base_height": 10.5,
         "height": 14.0,
         "owner": "Rajesh Mehta",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -11521,10 +11801,10 @@
         "building_id": "BKC-BLDG-1010",
         "building_name": "BKC Block 11",
         "floor": 5,
-        "total_floors": 15,
+        "total_floors": 6,
         "base_height": 14.0,
         "height": 17.5,
-        "owner": "Priya Patel",
+        "owner": "Sunita Deshmukh",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -11581,550 +11861,10 @@
         "building_id": "BKC-BLDG-1010",
         "building_name": "BKC Block 11",
         "floor": 6,
-        "total_floors": 15,
+        "total_floors": 6,
         "base_height": 17.5,
         "height": 21.0,
         "owner": "Sunita Deshmukh",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
-        "default_color": "#3A3A3A",
-        "land_type": "Residential"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72.86812,
-              19.065484
-            ],
-            [
-              72.868171,
-              19.064663
-            ],
-            [
-              72.868454,
-              19.064679
-            ],
-            [
-              72.86845,
-              19.064752
-            ],
-            [
-              72.868506,
-              19.064755
-            ],
-            [
-              72.86851,
-              19.064682
-            ],
-            [
-              72.868697,
-              19.064692
-            ],
-            [
-              72.868647,
-              19.065513
-            ],
-            [
-              72.86812,
-              19.065484
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "ulpin": "27-BKC-1010-F07-U701",
-        "building_id": "BKC-BLDG-1010",
-        "building_name": "BKC Block 11",
-        "floor": 7,
-        "total_floors": 15,
-        "base_height": 21.0,
-        "height": 24.5,
-        "owner": "Rajesh Mehta",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
-        "default_color": "#3A3A3A",
-        "land_type": "Residential"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72.86812,
-              19.065484
-            ],
-            [
-              72.868171,
-              19.064663
-            ],
-            [
-              72.868454,
-              19.064679
-            ],
-            [
-              72.86845,
-              19.064752
-            ],
-            [
-              72.868506,
-              19.064755
-            ],
-            [
-              72.86851,
-              19.064682
-            ],
-            [
-              72.868697,
-              19.064692
-            ],
-            [
-              72.868647,
-              19.065513
-            ],
-            [
-              72.86812,
-              19.065484
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "ulpin": "27-BKC-1010-F08-U801",
-        "building_id": "BKC-BLDG-1010",
-        "building_name": "BKC Block 11",
-        "floor": 8,
-        "total_floors": 15,
-        "base_height": 24.5,
-        "height": 28.0,
-        "owner": "Ramesh Sharma",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
-        "default_color": "#3A3A3A",
-        "land_type": "Residential"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72.86812,
-              19.065484
-            ],
-            [
-              72.868171,
-              19.064663
-            ],
-            [
-              72.868454,
-              19.064679
-            ],
-            [
-              72.86845,
-              19.064752
-            ],
-            [
-              72.868506,
-              19.064755
-            ],
-            [
-              72.86851,
-              19.064682
-            ],
-            [
-              72.868697,
-              19.064692
-            ],
-            [
-              72.868647,
-              19.065513
-            ],
-            [
-              72.86812,
-              19.065484
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "ulpin": "27-BKC-1010-F09-U901",
-        "building_id": "BKC-BLDG-1010",
-        "building_name": "BKC Block 11",
-        "floor": 9,
-        "total_floors": 15,
-        "base_height": 28.0,
-        "height": 31.5,
-        "owner": "Vikram Shah",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
-        "default_color": "#3A3A3A",
-        "land_type": "Residential"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72.86812,
-              19.065484
-            ],
-            [
-              72.868171,
-              19.064663
-            ],
-            [
-              72.868454,
-              19.064679
-            ],
-            [
-              72.86845,
-              19.064752
-            ],
-            [
-              72.868506,
-              19.064755
-            ],
-            [
-              72.86851,
-              19.064682
-            ],
-            [
-              72.868697,
-              19.064692
-            ],
-            [
-              72.868647,
-              19.065513
-            ],
-            [
-              72.86812,
-              19.065484
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "ulpin": "27-BKC-1010-F10-U1001",
-        "building_id": "BKC-BLDG-1010",
-        "building_name": "BKC Block 11",
-        "floor": 10,
-        "total_floors": 15,
-        "base_height": 31.5,
-        "height": 35.0,
-        "owner": "Sunita Deshmukh",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
-        "default_color": "#3A3A3A",
-        "land_type": "Residential"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72.86812,
-              19.065484
-            ],
-            [
-              72.868171,
-              19.064663
-            ],
-            [
-              72.868454,
-              19.064679
-            ],
-            [
-              72.86845,
-              19.064752
-            ],
-            [
-              72.868506,
-              19.064755
-            ],
-            [
-              72.86851,
-              19.064682
-            ],
-            [
-              72.868697,
-              19.064692
-            ],
-            [
-              72.868647,
-              19.065513
-            ],
-            [
-              72.86812,
-              19.065484
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "ulpin": "27-BKC-1010-F11-U1101",
-        "building_id": "BKC-BLDG-1010",
-        "building_name": "BKC Block 11",
-        "floor": 11,
-        "total_floors": 15,
-        "base_height": 35.0,
-        "height": 38.5,
-        "owner": "Ananya Roy",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
-        "default_color": "#3A3A3A",
-        "land_type": "Residential"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72.86812,
-              19.065484
-            ],
-            [
-              72.868171,
-              19.064663
-            ],
-            [
-              72.868454,
-              19.064679
-            ],
-            [
-              72.86845,
-              19.064752
-            ],
-            [
-              72.868506,
-              19.064755
-            ],
-            [
-              72.86851,
-              19.064682
-            ],
-            [
-              72.868697,
-              19.064692
-            ],
-            [
-              72.868647,
-              19.065513
-            ],
-            [
-              72.86812,
-              19.065484
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "ulpin": "27-BKC-1010-F12-U1201",
-        "building_id": "BKC-BLDG-1010",
-        "building_name": "BKC Block 11",
-        "floor": 12,
-        "total_floors": 15,
-        "base_height": 38.5,
-        "height": 42.0,
-        "owner": "Neha Gupta",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
-        "default_color": "#3A3A3A",
-        "land_type": "Residential"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72.86812,
-              19.065484
-            ],
-            [
-              72.868171,
-              19.064663
-            ],
-            [
-              72.868454,
-              19.064679
-            ],
-            [
-              72.86845,
-              19.064752
-            ],
-            [
-              72.868506,
-              19.064755
-            ],
-            [
-              72.86851,
-              19.064682
-            ],
-            [
-              72.868697,
-              19.064692
-            ],
-            [
-              72.868647,
-              19.065513
-            ],
-            [
-              72.86812,
-              19.065484
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "ulpin": "27-BKC-1010-F13-U1301",
-        "building_id": "BKC-BLDG-1010",
-        "building_name": "BKC Block 11",
-        "floor": 13,
-        "total_floors": 15,
-        "base_height": 42.0,
-        "height": 45.5,
-        "owner": "Sunita Deshmukh",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
-        "default_color": "#3A3A3A",
-        "land_type": "Residential"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72.86812,
-              19.065484
-            ],
-            [
-              72.868171,
-              19.064663
-            ],
-            [
-              72.868454,
-              19.064679
-            ],
-            [
-              72.86845,
-              19.064752
-            ],
-            [
-              72.868506,
-              19.064755
-            ],
-            [
-              72.86851,
-              19.064682
-            ],
-            [
-              72.868697,
-              19.064692
-            ],
-            [
-              72.868647,
-              19.065513
-            ],
-            [
-              72.86812,
-              19.065484
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "ulpin": "27-BKC-1010-F14-U1401",
-        "building_id": "BKC-BLDG-1010",
-        "building_name": "BKC Block 11",
-        "floor": 14,
-        "total_floors": 15,
-        "base_height": 45.5,
-        "height": 49.0,
-        "owner": "Amit Verma",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
-        "default_color": "#3A3A3A",
-        "land_type": "Residential"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72.86812,
-              19.065484
-            ],
-            [
-              72.868171,
-              19.064663
-            ],
-            [
-              72.868454,
-              19.064679
-            ],
-            [
-              72.86845,
-              19.064752
-            ],
-            [
-              72.868506,
-              19.064755
-            ],
-            [
-              72.86851,
-              19.064682
-            ],
-            [
-              72.868697,
-              19.064692
-            ],
-            [
-              72.868647,
-              19.065513
-            ],
-            [
-              72.86812,
-              19.065484
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "ulpin": "27-BKC-1010-F15-U1501",
-        "building_id": "BKC-BLDG-1010",
-        "building_name": "BKC Block 11",
-        "floor": 15,
-        "total_floors": 15,
-        "base_height": 49.0,
-        "height": 52.5,
-        "owner": "Ananya Roy",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -12165,10 +11905,10 @@
         "building_id": "BKC-BLDG-1011",
         "building_name": "The Capital",
         "floor": 1,
-        "total_floors": 8,
+        "total_floors": 12,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Rajesh Mehta",
+        "owner": "Vikram Shah",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -12209,10 +11949,10 @@
         "building_id": "BKC-BLDG-1011",
         "building_name": "The Capital",
         "floor": 2,
-        "total_floors": 8,
+        "total_floors": 12,
         "base_height": 3.5,
         "height": 7.0,
-        "owner": "Neha Gupta",
+        "owner": "Sunita Deshmukh",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -12253,7 +11993,7 @@
         "building_id": "BKC-BLDG-1011",
         "building_name": "The Capital",
         "floor": 3,
-        "total_floors": 8,
+        "total_floors": 12,
         "base_height": 7.0,
         "height": 10.5,
         "owner": "Amit Verma",
@@ -12297,12 +12037,12 @@
         "building_id": "BKC-BLDG-1011",
         "building_name": "The Capital",
         "floor": 4,
-        "total_floors": 8,
+        "total_floors": 12,
         "base_height": 10.5,
         "height": 14.0,
-        "owner": "Vikram Shah",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Amit Verma",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -12341,10 +12081,10 @@
         "building_id": "BKC-BLDG-1011",
         "building_name": "The Capital",
         "floor": 5,
-        "total_floors": 8,
+        "total_floors": 12,
         "base_height": 14.0,
         "height": 17.5,
-        "owner": "Ananya Roy",
+        "owner": "Sunita Deshmukh",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -12385,12 +12125,12 @@
         "building_id": "BKC-BLDG-1011",
         "building_name": "The Capital",
         "floor": 6,
-        "total_floors": 8,
+        "total_floors": 12,
         "base_height": 17.5,
         "height": 21.0,
-        "owner": "Neha Gupta",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Amit Verma",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -12429,10 +12169,10 @@
         "building_id": "BKC-BLDG-1011",
         "building_name": "The Capital",
         "floor": 7,
-        "total_floors": 8,
+        "total_floors": 12,
         "base_height": 21.0,
         "height": 24.5,
-        "owner": "Priya Patel",
+        "owner": "Ananya Roy",
         "tax_status": "Default",
         "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
@@ -12473,10 +12213,186 @@
         "building_id": "BKC-BLDG-1011",
         "building_name": "The Capital",
         "floor": 8,
-        "total_floors": 8,
+        "total_floors": 12,
         "base_height": 24.5,
         "height": 28.0,
-        "owner": "Priya Patel",
+        "owner": "Ramesh Sharma",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.862457,
+              19.063535
+            ],
+            [
+              72.862225,
+              19.063692
+            ],
+            [
+              72.861335,
+              19.063066
+            ],
+            [
+              72.86171,
+              19.062748
+            ],
+            [
+              72.862457,
+              19.063535
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1011-F09-U901",
+        "building_id": "BKC-BLDG-1011",
+        "building_name": "The Capital",
+        "floor": 9,
+        "total_floors": 12,
+        "base_height": 28.0,
+        "height": 31.5,
+        "owner": "Vikram Shah",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.862457,
+              19.063535
+            ],
+            [
+              72.862225,
+              19.063692
+            ],
+            [
+              72.861335,
+              19.063066
+            ],
+            [
+              72.86171,
+              19.062748
+            ],
+            [
+              72.862457,
+              19.063535
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1011-F10-U1001",
+        "building_id": "BKC-BLDG-1011",
+        "building_name": "The Capital",
+        "floor": 10,
+        "total_floors": 12,
+        "base_height": 31.5,
+        "height": 35.0,
+        "owner": "Ananya Roy",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.862457,
+              19.063535
+            ],
+            [
+              72.862225,
+              19.063692
+            ],
+            [
+              72.861335,
+              19.063066
+            ],
+            [
+              72.86171,
+              19.062748
+            ],
+            [
+              72.862457,
+              19.063535
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1011-F11-U1101",
+        "building_id": "BKC-BLDG-1011",
+        "building_name": "The Capital",
+        "floor": 11,
+        "total_floors": 12,
+        "base_height": 35.0,
+        "height": 38.5,
+        "owner": "Neha Gupta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.862457,
+              19.063535
+            ],
+            [
+              72.862225,
+              19.063692
+            ],
+            [
+              72.861335,
+              19.063066
+            ],
+            [
+              72.86171,
+              19.062748
+            ],
+            [
+              72.862457,
+              19.063535
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1011-F12-U1201",
+        "building_id": "BKC-BLDG-1011",
+        "building_name": "The Capital",
+        "floor": 12,
+        "total_floors": 12,
+        "base_height": 38.5,
+        "height": 42.0,
+        "owner": "Amit Verma",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -12685,12 +12601,12 @@
         "building_id": "BKC-BLDG-1012",
         "building_name": "BKC Block 13",
         "floor": 1,
-        "total_floors": 6,
+        "total_floors": 15,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Neha Gupta",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Ananya Roy",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -12897,10 +12813,10 @@
         "building_id": "BKC-BLDG-1012",
         "building_name": "BKC Block 13",
         "floor": 2,
-        "total_floors": 6,
+        "total_floors": 15,
         "base_height": 3.5,
         "height": 7.0,
-        "owner": "Neha Gupta",
+        "owner": "Sunita Deshmukh",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -13109,10 +13025,10 @@
         "building_id": "BKC-BLDG-1012",
         "building_name": "BKC Block 13",
         "floor": 3,
-        "total_floors": 6,
+        "total_floors": 15,
         "base_height": 7.0,
         "height": 10.5,
-        "owner": "Amit Verma",
+        "owner": "Sunita Deshmukh",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -13321,12 +13237,12 @@
         "building_id": "BKC-BLDG-1012",
         "building_name": "BKC Block 13",
         "floor": 4,
-        "total_floors": 6,
+        "total_floors": 15,
         "base_height": 10.5,
         "height": 14.0,
-        "owner": "Rajesh Mehta",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Priya Patel",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -13533,10 +13449,10 @@
         "building_id": "BKC-BLDG-1012",
         "building_name": "BKC Block 13",
         "floor": 5,
-        "total_floors": 6,
+        "total_floors": 15,
         "base_height": 14.0,
         "height": 17.5,
-        "owner": "Ramesh Sharma",
+        "owner": "Priya Patel",
         "tax_status": "Default",
         "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
@@ -13745,12 +13661,1920 @@
         "building_id": "BKC-BLDG-1012",
         "building_name": "BKC Block 13",
         "floor": 6,
-        "total_floors": 6,
+        "total_floors": 15,
         "base_height": 17.5,
         "height": 21.0,
         "owner": "Priya Patel",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.867982,
+              19.066713
+            ],
+            [
+              72.868337,
+              19.066897
+            ],
+            [
+              72.86835,
+              19.066892
+            ],
+            [
+              72.868403,
+              19.066892
+            ],
+            [
+              72.868452,
+              19.066912
+            ],
+            [
+              72.868489,
+              19.066948
+            ],
+            [
+              72.868509,
+              19.066994
+            ],
+            [
+              72.868509,
+              19.067044
+            ],
+            [
+              72.868488,
+              19.06709
+            ],
+            [
+              72.86845,
+              19.067126
+            ],
+            [
+              72.868401,
+              19.067144
+            ],
+            [
+              72.868348,
+              19.067144
+            ],
+            [
+              72.868299,
+              19.067124
+            ],
+            [
+              72.868262,
+              19.067089
+            ],
+            [
+              72.868242,
+              19.067042
+            ],
+            [
+              72.868242,
+              19.067021
+            ],
+            [
+              72.8681,
+              19.066947
+            ],
+            [
+              72.868076,
+              19.06698
+            ],
+            [
+              72.868088,
+              19.066988
+            ],
+            [
+              72.86788,
+              19.067268
+            ],
+            [
+              72.867553,
+              19.067051
+            ],
+            [
+              72.867538,
+              19.066902
+            ],
+            [
+              72.867724,
+              19.066812
+            ],
+            [
+              72.867751,
+              19.066826
+            ],
+            [
+              72.867741,
+              19.066809
+            ],
+            [
+              72.867735,
+              19.066785
+            ],
+            [
+              72.867733,
+              19.066763
+            ],
+            [
+              72.867738,
+              19.066718
+            ],
+            [
+              72.86754,
+              19.066406
+            ],
+            [
+              72.8675,
+              19.066395
+            ],
+            [
+              72.867461,
+              19.066364
+            ],
+            [
+              72.867437,
+              19.066321
+            ],
+            [
+              72.867433,
+              19.066273
+            ],
+            [
+              72.867448,
+              19.066226
+            ],
+            [
+              72.867481,
+              19.066189
+            ],
+            [
+              72.867526,
+              19.066167
+            ],
+            [
+              72.867577,
+              19.066162
+            ],
+            [
+              72.867626,
+              19.066177
+            ],
+            [
+              72.867666,
+              19.066208
+            ],
+            [
+              72.86769,
+              19.066251
+            ],
+            [
+              72.867694,
+              19.066299
+            ],
+            [
+              72.867685,
+              19.066327
+            ],
+            [
+              72.867882,
+              19.066635
+            ],
+            [
+              72.867902,
+              19.066638
+            ],
+            [
+              72.867947,
+              19.066661
+            ],
+            [
+              72.867978,
+              19.066699
+            ],
+            [
+              72.867982,
+              19.066713
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1012-F07-U701",
+        "building_id": "BKC-BLDG-1012",
+        "building_name": "BKC Block 13",
+        "floor": 7,
+        "total_floors": 15,
+        "base_height": 21.0,
+        "height": 24.5,
+        "owner": "Sunita Deshmukh",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.867982,
+              19.066713
+            ],
+            [
+              72.868337,
+              19.066897
+            ],
+            [
+              72.86835,
+              19.066892
+            ],
+            [
+              72.868403,
+              19.066892
+            ],
+            [
+              72.868452,
+              19.066912
+            ],
+            [
+              72.868489,
+              19.066948
+            ],
+            [
+              72.868509,
+              19.066994
+            ],
+            [
+              72.868509,
+              19.067044
+            ],
+            [
+              72.868488,
+              19.06709
+            ],
+            [
+              72.86845,
+              19.067126
+            ],
+            [
+              72.868401,
+              19.067144
+            ],
+            [
+              72.868348,
+              19.067144
+            ],
+            [
+              72.868299,
+              19.067124
+            ],
+            [
+              72.868262,
+              19.067089
+            ],
+            [
+              72.868242,
+              19.067042
+            ],
+            [
+              72.868242,
+              19.067021
+            ],
+            [
+              72.8681,
+              19.066947
+            ],
+            [
+              72.868076,
+              19.06698
+            ],
+            [
+              72.868088,
+              19.066988
+            ],
+            [
+              72.86788,
+              19.067268
+            ],
+            [
+              72.867553,
+              19.067051
+            ],
+            [
+              72.867538,
+              19.066902
+            ],
+            [
+              72.867724,
+              19.066812
+            ],
+            [
+              72.867751,
+              19.066826
+            ],
+            [
+              72.867741,
+              19.066809
+            ],
+            [
+              72.867735,
+              19.066785
+            ],
+            [
+              72.867733,
+              19.066763
+            ],
+            [
+              72.867738,
+              19.066718
+            ],
+            [
+              72.86754,
+              19.066406
+            ],
+            [
+              72.8675,
+              19.066395
+            ],
+            [
+              72.867461,
+              19.066364
+            ],
+            [
+              72.867437,
+              19.066321
+            ],
+            [
+              72.867433,
+              19.066273
+            ],
+            [
+              72.867448,
+              19.066226
+            ],
+            [
+              72.867481,
+              19.066189
+            ],
+            [
+              72.867526,
+              19.066167
+            ],
+            [
+              72.867577,
+              19.066162
+            ],
+            [
+              72.867626,
+              19.066177
+            ],
+            [
+              72.867666,
+              19.066208
+            ],
+            [
+              72.86769,
+              19.066251
+            ],
+            [
+              72.867694,
+              19.066299
+            ],
+            [
+              72.867685,
+              19.066327
+            ],
+            [
+              72.867882,
+              19.066635
+            ],
+            [
+              72.867902,
+              19.066638
+            ],
+            [
+              72.867947,
+              19.066661
+            ],
+            [
+              72.867978,
+              19.066699
+            ],
+            [
+              72.867982,
+              19.066713
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1012-F08-U801",
+        "building_id": "BKC-BLDG-1012",
+        "building_name": "BKC Block 13",
+        "floor": 8,
+        "total_floors": 15,
+        "base_height": 24.5,
+        "height": 28.0,
+        "owner": "Rajesh Mehta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.867982,
+              19.066713
+            ],
+            [
+              72.868337,
+              19.066897
+            ],
+            [
+              72.86835,
+              19.066892
+            ],
+            [
+              72.868403,
+              19.066892
+            ],
+            [
+              72.868452,
+              19.066912
+            ],
+            [
+              72.868489,
+              19.066948
+            ],
+            [
+              72.868509,
+              19.066994
+            ],
+            [
+              72.868509,
+              19.067044
+            ],
+            [
+              72.868488,
+              19.06709
+            ],
+            [
+              72.86845,
+              19.067126
+            ],
+            [
+              72.868401,
+              19.067144
+            ],
+            [
+              72.868348,
+              19.067144
+            ],
+            [
+              72.868299,
+              19.067124
+            ],
+            [
+              72.868262,
+              19.067089
+            ],
+            [
+              72.868242,
+              19.067042
+            ],
+            [
+              72.868242,
+              19.067021
+            ],
+            [
+              72.8681,
+              19.066947
+            ],
+            [
+              72.868076,
+              19.06698
+            ],
+            [
+              72.868088,
+              19.066988
+            ],
+            [
+              72.86788,
+              19.067268
+            ],
+            [
+              72.867553,
+              19.067051
+            ],
+            [
+              72.867538,
+              19.066902
+            ],
+            [
+              72.867724,
+              19.066812
+            ],
+            [
+              72.867751,
+              19.066826
+            ],
+            [
+              72.867741,
+              19.066809
+            ],
+            [
+              72.867735,
+              19.066785
+            ],
+            [
+              72.867733,
+              19.066763
+            ],
+            [
+              72.867738,
+              19.066718
+            ],
+            [
+              72.86754,
+              19.066406
+            ],
+            [
+              72.8675,
+              19.066395
+            ],
+            [
+              72.867461,
+              19.066364
+            ],
+            [
+              72.867437,
+              19.066321
+            ],
+            [
+              72.867433,
+              19.066273
+            ],
+            [
+              72.867448,
+              19.066226
+            ],
+            [
+              72.867481,
+              19.066189
+            ],
+            [
+              72.867526,
+              19.066167
+            ],
+            [
+              72.867577,
+              19.066162
+            ],
+            [
+              72.867626,
+              19.066177
+            ],
+            [
+              72.867666,
+              19.066208
+            ],
+            [
+              72.86769,
+              19.066251
+            ],
+            [
+              72.867694,
+              19.066299
+            ],
+            [
+              72.867685,
+              19.066327
+            ],
+            [
+              72.867882,
+              19.066635
+            ],
+            [
+              72.867902,
+              19.066638
+            ],
+            [
+              72.867947,
+              19.066661
+            ],
+            [
+              72.867978,
+              19.066699
+            ],
+            [
+              72.867982,
+              19.066713
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1012-F09-U901",
+        "building_id": "BKC-BLDG-1012",
+        "building_name": "BKC Block 13",
+        "floor": 9,
+        "total_floors": 15,
+        "base_height": 28.0,
+        "height": 31.5,
+        "owner": "Amit Verma",
         "tax_status": "Default",
         "tax_color": "#E74C3C",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.867982,
+              19.066713
+            ],
+            [
+              72.868337,
+              19.066897
+            ],
+            [
+              72.86835,
+              19.066892
+            ],
+            [
+              72.868403,
+              19.066892
+            ],
+            [
+              72.868452,
+              19.066912
+            ],
+            [
+              72.868489,
+              19.066948
+            ],
+            [
+              72.868509,
+              19.066994
+            ],
+            [
+              72.868509,
+              19.067044
+            ],
+            [
+              72.868488,
+              19.06709
+            ],
+            [
+              72.86845,
+              19.067126
+            ],
+            [
+              72.868401,
+              19.067144
+            ],
+            [
+              72.868348,
+              19.067144
+            ],
+            [
+              72.868299,
+              19.067124
+            ],
+            [
+              72.868262,
+              19.067089
+            ],
+            [
+              72.868242,
+              19.067042
+            ],
+            [
+              72.868242,
+              19.067021
+            ],
+            [
+              72.8681,
+              19.066947
+            ],
+            [
+              72.868076,
+              19.06698
+            ],
+            [
+              72.868088,
+              19.066988
+            ],
+            [
+              72.86788,
+              19.067268
+            ],
+            [
+              72.867553,
+              19.067051
+            ],
+            [
+              72.867538,
+              19.066902
+            ],
+            [
+              72.867724,
+              19.066812
+            ],
+            [
+              72.867751,
+              19.066826
+            ],
+            [
+              72.867741,
+              19.066809
+            ],
+            [
+              72.867735,
+              19.066785
+            ],
+            [
+              72.867733,
+              19.066763
+            ],
+            [
+              72.867738,
+              19.066718
+            ],
+            [
+              72.86754,
+              19.066406
+            ],
+            [
+              72.8675,
+              19.066395
+            ],
+            [
+              72.867461,
+              19.066364
+            ],
+            [
+              72.867437,
+              19.066321
+            ],
+            [
+              72.867433,
+              19.066273
+            ],
+            [
+              72.867448,
+              19.066226
+            ],
+            [
+              72.867481,
+              19.066189
+            ],
+            [
+              72.867526,
+              19.066167
+            ],
+            [
+              72.867577,
+              19.066162
+            ],
+            [
+              72.867626,
+              19.066177
+            ],
+            [
+              72.867666,
+              19.066208
+            ],
+            [
+              72.86769,
+              19.066251
+            ],
+            [
+              72.867694,
+              19.066299
+            ],
+            [
+              72.867685,
+              19.066327
+            ],
+            [
+              72.867882,
+              19.066635
+            ],
+            [
+              72.867902,
+              19.066638
+            ],
+            [
+              72.867947,
+              19.066661
+            ],
+            [
+              72.867978,
+              19.066699
+            ],
+            [
+              72.867982,
+              19.066713
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1012-F10-U1001",
+        "building_id": "BKC-BLDG-1012",
+        "building_name": "BKC Block 13",
+        "floor": 10,
+        "total_floors": 15,
+        "base_height": 31.5,
+        "height": 35.0,
+        "owner": "Neha Gupta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.867982,
+              19.066713
+            ],
+            [
+              72.868337,
+              19.066897
+            ],
+            [
+              72.86835,
+              19.066892
+            ],
+            [
+              72.868403,
+              19.066892
+            ],
+            [
+              72.868452,
+              19.066912
+            ],
+            [
+              72.868489,
+              19.066948
+            ],
+            [
+              72.868509,
+              19.066994
+            ],
+            [
+              72.868509,
+              19.067044
+            ],
+            [
+              72.868488,
+              19.06709
+            ],
+            [
+              72.86845,
+              19.067126
+            ],
+            [
+              72.868401,
+              19.067144
+            ],
+            [
+              72.868348,
+              19.067144
+            ],
+            [
+              72.868299,
+              19.067124
+            ],
+            [
+              72.868262,
+              19.067089
+            ],
+            [
+              72.868242,
+              19.067042
+            ],
+            [
+              72.868242,
+              19.067021
+            ],
+            [
+              72.8681,
+              19.066947
+            ],
+            [
+              72.868076,
+              19.06698
+            ],
+            [
+              72.868088,
+              19.066988
+            ],
+            [
+              72.86788,
+              19.067268
+            ],
+            [
+              72.867553,
+              19.067051
+            ],
+            [
+              72.867538,
+              19.066902
+            ],
+            [
+              72.867724,
+              19.066812
+            ],
+            [
+              72.867751,
+              19.066826
+            ],
+            [
+              72.867741,
+              19.066809
+            ],
+            [
+              72.867735,
+              19.066785
+            ],
+            [
+              72.867733,
+              19.066763
+            ],
+            [
+              72.867738,
+              19.066718
+            ],
+            [
+              72.86754,
+              19.066406
+            ],
+            [
+              72.8675,
+              19.066395
+            ],
+            [
+              72.867461,
+              19.066364
+            ],
+            [
+              72.867437,
+              19.066321
+            ],
+            [
+              72.867433,
+              19.066273
+            ],
+            [
+              72.867448,
+              19.066226
+            ],
+            [
+              72.867481,
+              19.066189
+            ],
+            [
+              72.867526,
+              19.066167
+            ],
+            [
+              72.867577,
+              19.066162
+            ],
+            [
+              72.867626,
+              19.066177
+            ],
+            [
+              72.867666,
+              19.066208
+            ],
+            [
+              72.86769,
+              19.066251
+            ],
+            [
+              72.867694,
+              19.066299
+            ],
+            [
+              72.867685,
+              19.066327
+            ],
+            [
+              72.867882,
+              19.066635
+            ],
+            [
+              72.867902,
+              19.066638
+            ],
+            [
+              72.867947,
+              19.066661
+            ],
+            [
+              72.867978,
+              19.066699
+            ],
+            [
+              72.867982,
+              19.066713
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1012-F11-U1101",
+        "building_id": "BKC-BLDG-1012",
+        "building_name": "BKC Block 13",
+        "floor": 11,
+        "total_floors": 15,
+        "base_height": 35.0,
+        "height": 38.5,
+        "owner": "Neha Gupta",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.867982,
+              19.066713
+            ],
+            [
+              72.868337,
+              19.066897
+            ],
+            [
+              72.86835,
+              19.066892
+            ],
+            [
+              72.868403,
+              19.066892
+            ],
+            [
+              72.868452,
+              19.066912
+            ],
+            [
+              72.868489,
+              19.066948
+            ],
+            [
+              72.868509,
+              19.066994
+            ],
+            [
+              72.868509,
+              19.067044
+            ],
+            [
+              72.868488,
+              19.06709
+            ],
+            [
+              72.86845,
+              19.067126
+            ],
+            [
+              72.868401,
+              19.067144
+            ],
+            [
+              72.868348,
+              19.067144
+            ],
+            [
+              72.868299,
+              19.067124
+            ],
+            [
+              72.868262,
+              19.067089
+            ],
+            [
+              72.868242,
+              19.067042
+            ],
+            [
+              72.868242,
+              19.067021
+            ],
+            [
+              72.8681,
+              19.066947
+            ],
+            [
+              72.868076,
+              19.06698
+            ],
+            [
+              72.868088,
+              19.066988
+            ],
+            [
+              72.86788,
+              19.067268
+            ],
+            [
+              72.867553,
+              19.067051
+            ],
+            [
+              72.867538,
+              19.066902
+            ],
+            [
+              72.867724,
+              19.066812
+            ],
+            [
+              72.867751,
+              19.066826
+            ],
+            [
+              72.867741,
+              19.066809
+            ],
+            [
+              72.867735,
+              19.066785
+            ],
+            [
+              72.867733,
+              19.066763
+            ],
+            [
+              72.867738,
+              19.066718
+            ],
+            [
+              72.86754,
+              19.066406
+            ],
+            [
+              72.8675,
+              19.066395
+            ],
+            [
+              72.867461,
+              19.066364
+            ],
+            [
+              72.867437,
+              19.066321
+            ],
+            [
+              72.867433,
+              19.066273
+            ],
+            [
+              72.867448,
+              19.066226
+            ],
+            [
+              72.867481,
+              19.066189
+            ],
+            [
+              72.867526,
+              19.066167
+            ],
+            [
+              72.867577,
+              19.066162
+            ],
+            [
+              72.867626,
+              19.066177
+            ],
+            [
+              72.867666,
+              19.066208
+            ],
+            [
+              72.86769,
+              19.066251
+            ],
+            [
+              72.867694,
+              19.066299
+            ],
+            [
+              72.867685,
+              19.066327
+            ],
+            [
+              72.867882,
+              19.066635
+            ],
+            [
+              72.867902,
+              19.066638
+            ],
+            [
+              72.867947,
+              19.066661
+            ],
+            [
+              72.867978,
+              19.066699
+            ],
+            [
+              72.867982,
+              19.066713
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1012-F12-U1201",
+        "building_id": "BKC-BLDG-1012",
+        "building_name": "BKC Block 13",
+        "floor": 12,
+        "total_floors": 15,
+        "base_height": 38.5,
+        "height": 42.0,
+        "owner": "Ramesh Sharma",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.867982,
+              19.066713
+            ],
+            [
+              72.868337,
+              19.066897
+            ],
+            [
+              72.86835,
+              19.066892
+            ],
+            [
+              72.868403,
+              19.066892
+            ],
+            [
+              72.868452,
+              19.066912
+            ],
+            [
+              72.868489,
+              19.066948
+            ],
+            [
+              72.868509,
+              19.066994
+            ],
+            [
+              72.868509,
+              19.067044
+            ],
+            [
+              72.868488,
+              19.06709
+            ],
+            [
+              72.86845,
+              19.067126
+            ],
+            [
+              72.868401,
+              19.067144
+            ],
+            [
+              72.868348,
+              19.067144
+            ],
+            [
+              72.868299,
+              19.067124
+            ],
+            [
+              72.868262,
+              19.067089
+            ],
+            [
+              72.868242,
+              19.067042
+            ],
+            [
+              72.868242,
+              19.067021
+            ],
+            [
+              72.8681,
+              19.066947
+            ],
+            [
+              72.868076,
+              19.06698
+            ],
+            [
+              72.868088,
+              19.066988
+            ],
+            [
+              72.86788,
+              19.067268
+            ],
+            [
+              72.867553,
+              19.067051
+            ],
+            [
+              72.867538,
+              19.066902
+            ],
+            [
+              72.867724,
+              19.066812
+            ],
+            [
+              72.867751,
+              19.066826
+            ],
+            [
+              72.867741,
+              19.066809
+            ],
+            [
+              72.867735,
+              19.066785
+            ],
+            [
+              72.867733,
+              19.066763
+            ],
+            [
+              72.867738,
+              19.066718
+            ],
+            [
+              72.86754,
+              19.066406
+            ],
+            [
+              72.8675,
+              19.066395
+            ],
+            [
+              72.867461,
+              19.066364
+            ],
+            [
+              72.867437,
+              19.066321
+            ],
+            [
+              72.867433,
+              19.066273
+            ],
+            [
+              72.867448,
+              19.066226
+            ],
+            [
+              72.867481,
+              19.066189
+            ],
+            [
+              72.867526,
+              19.066167
+            ],
+            [
+              72.867577,
+              19.066162
+            ],
+            [
+              72.867626,
+              19.066177
+            ],
+            [
+              72.867666,
+              19.066208
+            ],
+            [
+              72.86769,
+              19.066251
+            ],
+            [
+              72.867694,
+              19.066299
+            ],
+            [
+              72.867685,
+              19.066327
+            ],
+            [
+              72.867882,
+              19.066635
+            ],
+            [
+              72.867902,
+              19.066638
+            ],
+            [
+              72.867947,
+              19.066661
+            ],
+            [
+              72.867978,
+              19.066699
+            ],
+            [
+              72.867982,
+              19.066713
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1012-F13-U1301",
+        "building_id": "BKC-BLDG-1012",
+        "building_name": "BKC Block 13",
+        "floor": 13,
+        "total_floors": 15,
+        "base_height": 42.0,
+        "height": 45.5,
+        "owner": "Priya Patel",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.867982,
+              19.066713
+            ],
+            [
+              72.868337,
+              19.066897
+            ],
+            [
+              72.86835,
+              19.066892
+            ],
+            [
+              72.868403,
+              19.066892
+            ],
+            [
+              72.868452,
+              19.066912
+            ],
+            [
+              72.868489,
+              19.066948
+            ],
+            [
+              72.868509,
+              19.066994
+            ],
+            [
+              72.868509,
+              19.067044
+            ],
+            [
+              72.868488,
+              19.06709
+            ],
+            [
+              72.86845,
+              19.067126
+            ],
+            [
+              72.868401,
+              19.067144
+            ],
+            [
+              72.868348,
+              19.067144
+            ],
+            [
+              72.868299,
+              19.067124
+            ],
+            [
+              72.868262,
+              19.067089
+            ],
+            [
+              72.868242,
+              19.067042
+            ],
+            [
+              72.868242,
+              19.067021
+            ],
+            [
+              72.8681,
+              19.066947
+            ],
+            [
+              72.868076,
+              19.06698
+            ],
+            [
+              72.868088,
+              19.066988
+            ],
+            [
+              72.86788,
+              19.067268
+            ],
+            [
+              72.867553,
+              19.067051
+            ],
+            [
+              72.867538,
+              19.066902
+            ],
+            [
+              72.867724,
+              19.066812
+            ],
+            [
+              72.867751,
+              19.066826
+            ],
+            [
+              72.867741,
+              19.066809
+            ],
+            [
+              72.867735,
+              19.066785
+            ],
+            [
+              72.867733,
+              19.066763
+            ],
+            [
+              72.867738,
+              19.066718
+            ],
+            [
+              72.86754,
+              19.066406
+            ],
+            [
+              72.8675,
+              19.066395
+            ],
+            [
+              72.867461,
+              19.066364
+            ],
+            [
+              72.867437,
+              19.066321
+            ],
+            [
+              72.867433,
+              19.066273
+            ],
+            [
+              72.867448,
+              19.066226
+            ],
+            [
+              72.867481,
+              19.066189
+            ],
+            [
+              72.867526,
+              19.066167
+            ],
+            [
+              72.867577,
+              19.066162
+            ],
+            [
+              72.867626,
+              19.066177
+            ],
+            [
+              72.867666,
+              19.066208
+            ],
+            [
+              72.86769,
+              19.066251
+            ],
+            [
+              72.867694,
+              19.066299
+            ],
+            [
+              72.867685,
+              19.066327
+            ],
+            [
+              72.867882,
+              19.066635
+            ],
+            [
+              72.867902,
+              19.066638
+            ],
+            [
+              72.867947,
+              19.066661
+            ],
+            [
+              72.867978,
+              19.066699
+            ],
+            [
+              72.867982,
+              19.066713
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1012-F14-U1401",
+        "building_id": "BKC-BLDG-1012",
+        "building_name": "BKC Block 13",
+        "floor": 14,
+        "total_floors": 15,
+        "base_height": 45.5,
+        "height": 49.0,
+        "owner": "Amit Verma",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.867982,
+              19.066713
+            ],
+            [
+              72.868337,
+              19.066897
+            ],
+            [
+              72.86835,
+              19.066892
+            ],
+            [
+              72.868403,
+              19.066892
+            ],
+            [
+              72.868452,
+              19.066912
+            ],
+            [
+              72.868489,
+              19.066948
+            ],
+            [
+              72.868509,
+              19.066994
+            ],
+            [
+              72.868509,
+              19.067044
+            ],
+            [
+              72.868488,
+              19.06709
+            ],
+            [
+              72.86845,
+              19.067126
+            ],
+            [
+              72.868401,
+              19.067144
+            ],
+            [
+              72.868348,
+              19.067144
+            ],
+            [
+              72.868299,
+              19.067124
+            ],
+            [
+              72.868262,
+              19.067089
+            ],
+            [
+              72.868242,
+              19.067042
+            ],
+            [
+              72.868242,
+              19.067021
+            ],
+            [
+              72.8681,
+              19.066947
+            ],
+            [
+              72.868076,
+              19.06698
+            ],
+            [
+              72.868088,
+              19.066988
+            ],
+            [
+              72.86788,
+              19.067268
+            ],
+            [
+              72.867553,
+              19.067051
+            ],
+            [
+              72.867538,
+              19.066902
+            ],
+            [
+              72.867724,
+              19.066812
+            ],
+            [
+              72.867751,
+              19.066826
+            ],
+            [
+              72.867741,
+              19.066809
+            ],
+            [
+              72.867735,
+              19.066785
+            ],
+            [
+              72.867733,
+              19.066763
+            ],
+            [
+              72.867738,
+              19.066718
+            ],
+            [
+              72.86754,
+              19.066406
+            ],
+            [
+              72.8675,
+              19.066395
+            ],
+            [
+              72.867461,
+              19.066364
+            ],
+            [
+              72.867437,
+              19.066321
+            ],
+            [
+              72.867433,
+              19.066273
+            ],
+            [
+              72.867448,
+              19.066226
+            ],
+            [
+              72.867481,
+              19.066189
+            ],
+            [
+              72.867526,
+              19.066167
+            ],
+            [
+              72.867577,
+              19.066162
+            ],
+            [
+              72.867626,
+              19.066177
+            ],
+            [
+              72.867666,
+              19.066208
+            ],
+            [
+              72.86769,
+              19.066251
+            ],
+            [
+              72.867694,
+              19.066299
+            ],
+            [
+              72.867685,
+              19.066327
+            ],
+            [
+              72.867882,
+              19.066635
+            ],
+            [
+              72.867902,
+              19.066638
+            ],
+            [
+              72.867947,
+              19.066661
+            ],
+            [
+              72.867978,
+              19.066699
+            ],
+            [
+              72.867982,
+              19.066713
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1012-F15-U1501",
+        "building_id": "BKC-BLDG-1012",
+        "building_name": "BKC Block 13",
+        "floor": 15,
+        "total_floors": 15,
+        "base_height": 49.0,
+        "height": 52.5,
+        "owner": "Neha Gupta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -13797,12 +15621,12 @@
         "building_id": "BKC-BLDG-1013",
         "building_name": "BKC Block 14",
         "floor": 1,
-        "total_floors": 9,
+        "total_floors": 11,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Sunita Deshmukh",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Ananya Roy",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -13849,10 +15673,10 @@
         "building_id": "BKC-BLDG-1013",
         "building_name": "BKC Block 14",
         "floor": 2,
-        "total_floors": 9,
+        "total_floors": 11,
         "base_height": 3.5,
         "height": 7.0,
-        "owner": "Sunita Deshmukh",
+        "owner": "Rajesh Mehta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -13901,12 +15725,12 @@
         "building_id": "BKC-BLDG-1013",
         "building_name": "BKC Block 14",
         "floor": 3,
-        "total_floors": 9,
+        "total_floors": 11,
         "base_height": 7.0,
         "height": 10.5,
-        "owner": "Amit Verma",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Sunita Deshmukh",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -13953,12 +15777,12 @@
         "building_id": "BKC-BLDG-1013",
         "building_name": "BKC Block 14",
         "floor": 4,
-        "total_floors": 9,
+        "total_floors": 11,
         "base_height": 10.5,
         "height": 14.0,
-        "owner": "Ramesh Sharma",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Vikram Shah",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -14005,12 +15829,12 @@
         "building_id": "BKC-BLDG-1013",
         "building_name": "BKC Block 14",
         "floor": 5,
-        "total_floors": 9,
+        "total_floors": 11,
         "base_height": 14.0,
         "height": 17.5,
-        "owner": "Ananya Roy",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Priya Patel",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -14057,12 +15881,12 @@
         "building_id": "BKC-BLDG-1013",
         "building_name": "BKC Block 14",
         "floor": 6,
-        "total_floors": 9,
+        "total_floors": 11,
         "base_height": 17.5,
         "height": 21.0,
-        "owner": "Rajesh Mehta",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Priya Patel",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -14109,12 +15933,12 @@
         "building_id": "BKC-BLDG-1013",
         "building_name": "BKC Block 14",
         "floor": 7,
-        "total_floors": 9,
+        "total_floors": 11,
         "base_height": 21.0,
         "height": 24.5,
-        "owner": "Ramesh Sharma",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Amit Verma",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -14161,12 +15985,12 @@
         "building_id": "BKC-BLDG-1013",
         "building_name": "BKC Block 14",
         "floor": 8,
-        "total_floors": 9,
+        "total_floors": 11,
         "base_height": 24.5,
         "height": 28.0,
-        "owner": "Vikram Shah",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Priya Patel",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -14213,10 +16037,114 @@
         "building_id": "BKC-BLDG-1013",
         "building_name": "BKC Block 14",
         "floor": 9,
-        "total_floors": 9,
+        "total_floors": 11,
         "base_height": 28.0,
         "height": 31.5,
+        "owner": "Neha Gupta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.865537,
+              19.059933
+            ],
+            [
+              72.865012,
+              19.059897
+            ],
+            [
+              72.864739,
+              19.059878
+            ],
+            [
+              72.864762,
+              19.059581
+            ],
+            [
+              72.865055,
+              19.059344
+            ],
+            [
+              72.86558,
+              19.05938
+            ],
+            [
+              72.865537,
+              19.059933
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1013-F10-U1001",
+        "building_id": "BKC-BLDG-1013",
+        "building_name": "BKC Block 14",
+        "floor": 10,
+        "total_floors": 11,
+        "base_height": 31.5,
+        "height": 35.0,
         "owner": "Amit Verma",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.865537,
+              19.059933
+            ],
+            [
+              72.865012,
+              19.059897
+            ],
+            [
+              72.864739,
+              19.059878
+            ],
+            [
+              72.864762,
+              19.059581
+            ],
+            [
+              72.865055,
+              19.059344
+            ],
+            [
+              72.86558,
+              19.05938
+            ],
+            [
+              72.865537,
+              19.059933
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1013-F11-U1101",
+        "building_id": "BKC-BLDG-1013",
+        "building_name": "BKC Block 14",
+        "floor": 11,
+        "total_floors": 11,
+        "base_height": 35.0,
+        "height": 38.5,
+        "owner": "Rajesh Mehta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -14337,10 +16265,10 @@
         "building_id": "BKC-BLDG-1014",
         "building_name": "Sharad Pawar Indoor Cricket Academy",
         "floor": 1,
-        "total_floors": 14,
+        "total_floors": 15,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Ramesh Sharma",
+        "owner": "Rajesh Mehta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -14461,12 +16389,12 @@
         "building_id": "BKC-BLDG-1014",
         "building_name": "Sharad Pawar Indoor Cricket Academy",
         "floor": 2,
-        "total_floors": 14,
+        "total_floors": 15,
         "base_height": 3.5,
         "height": 7.0,
-        "owner": "Amit Verma",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Sunita Deshmukh",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -14585,12 +16513,12 @@
         "building_id": "BKC-BLDG-1014",
         "building_name": "Sharad Pawar Indoor Cricket Academy",
         "floor": 3,
-        "total_floors": 14,
+        "total_floors": 15,
         "base_height": 7.0,
         "height": 10.5,
-        "owner": "Sunita Deshmukh",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Rajesh Mehta",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -14709,7 +16637,7 @@
         "building_id": "BKC-BLDG-1014",
         "building_name": "Sharad Pawar Indoor Cricket Academy",
         "floor": 4,
-        "total_floors": 14,
+        "total_floors": 15,
         "base_height": 10.5,
         "height": 14.0,
         "owner": "Ananya Roy",
@@ -14833,12 +16761,12 @@
         "building_id": "BKC-BLDG-1014",
         "building_name": "Sharad Pawar Indoor Cricket Academy",
         "floor": 5,
-        "total_floors": 14,
+        "total_floors": 15,
         "base_height": 14.0,
         "height": 17.5,
-        "owner": "Ramesh Sharma",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Neha Gupta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -14957,10 +16885,10 @@
         "building_id": "BKC-BLDG-1014",
         "building_name": "Sharad Pawar Indoor Cricket Academy",
         "floor": 6,
-        "total_floors": 14,
+        "total_floors": 15,
         "base_height": 17.5,
         "height": 21.0,
-        "owner": "Amit Verma",
+        "owner": "Neha Gupta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -15081,10 +17009,10 @@
         "building_id": "BKC-BLDG-1014",
         "building_name": "Sharad Pawar Indoor Cricket Academy",
         "floor": 7,
-        "total_floors": 14,
+        "total_floors": 15,
         "base_height": 21.0,
         "height": 24.5,
-        "owner": "Neha Gupta",
+        "owner": "Ramesh Sharma",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -15205,12 +17133,12 @@
         "building_id": "BKC-BLDG-1014",
         "building_name": "Sharad Pawar Indoor Cricket Academy",
         "floor": 8,
-        "total_floors": 14,
+        "total_floors": 15,
         "base_height": 24.5,
         "height": 28.0,
         "owner": "Vikram Shah",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -15329,10 +17257,10 @@
         "building_id": "BKC-BLDG-1014",
         "building_name": "Sharad Pawar Indoor Cricket Academy",
         "floor": 9,
-        "total_floors": 14,
+        "total_floors": 15,
         "base_height": 28.0,
         "height": 31.5,
-        "owner": "Vikram Shah",
+        "owner": "Priya Patel",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -15453,10 +17381,10 @@
         "building_id": "BKC-BLDG-1014",
         "building_name": "Sharad Pawar Indoor Cricket Academy",
         "floor": 10,
-        "total_floors": 14,
+        "total_floors": 15,
         "base_height": 31.5,
         "height": 35.0,
-        "owner": "Rajesh Mehta",
+        "owner": "Ananya Roy",
         "tax_status": "Default",
         "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
@@ -15577,10 +17505,10 @@
         "building_id": "BKC-BLDG-1014",
         "building_name": "Sharad Pawar Indoor Cricket Academy",
         "floor": 11,
-        "total_floors": 14,
+        "total_floors": 15,
         "base_height": 35.0,
         "height": 38.5,
-        "owner": "Rajesh Mehta",
+        "owner": "Neha Gupta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -15701,10 +17629,10 @@
         "building_id": "BKC-BLDG-1014",
         "building_name": "Sharad Pawar Indoor Cricket Academy",
         "floor": 12,
-        "total_floors": 14,
+        "total_floors": 15,
         "base_height": 38.5,
         "height": 42.0,
-        "owner": "Neha Gupta",
+        "owner": "Ananya Roy",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -15825,10 +17753,10 @@
         "building_id": "BKC-BLDG-1014",
         "building_name": "Sharad Pawar Indoor Cricket Academy",
         "floor": 13,
-        "total_floors": 14,
+        "total_floors": 15,
         "base_height": 42.0,
         "height": 45.5,
-        "owner": "Amit Verma",
+        "owner": "Rajesh Mehta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -15949,10 +17877,134 @@
         "building_id": "BKC-BLDG-1014",
         "building_name": "Sharad Pawar Indoor Cricket Academy",
         "floor": 14,
-        "total_floors": 14,
+        "total_floors": 15,
         "base_height": 45.5,
         "height": 49.0,
-        "owner": "Neha Gupta",
+        "owner": "Priya Patel",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.865824,
+              19.060021
+            ],
+            [
+              72.865755,
+              19.059861
+            ],
+            [
+              72.866085,
+              19.059734
+            ],
+            [
+              72.866056,
+              19.059666
+            ],
+            [
+              72.866146,
+              19.059632
+            ],
+            [
+              72.866207,
+              19.059775
+            ],
+            [
+              72.866231,
+              19.059773
+            ],
+            [
+              72.866257,
+              19.059711
+            ],
+            [
+              72.866323,
+              19.059736
+            ],
+            [
+              72.866295,
+              19.059802
+            ],
+            [
+              72.866456,
+              19.059736
+            ],
+            [
+              72.866628,
+              19.060115
+            ],
+            [
+              72.866691,
+              19.06012
+            ],
+            [
+              72.866656,
+              19.060499
+            ],
+            [
+              72.866358,
+              19.060475
+            ],
+            [
+              72.866382,
+              19.060208
+            ],
+            [
+              72.866284,
+              19.059987
+            ],
+            [
+              72.866228,
+              19.060034
+            ],
+            [
+              72.866146,
+              19.060003
+            ],
+            [
+              72.866133,
+              19.059912
+            ],
+            [
+              72.865925,
+              19.059992
+            ],
+            [
+              72.866139,
+              19.060489
+            ],
+            [
+              72.866003,
+              19.060541
+            ],
+            [
+              72.865784,
+              19.060036
+            ],
+            [
+              72.865824,
+              19.060021
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1014-F15-U1501",
+        "building_id": "BKC-BLDG-1014",
+        "building_name": "Sharad Pawar Indoor Cricket Academy",
+        "floor": 15,
+        "total_floors": 15,
+        "base_height": 49.0,
+        "height": 52.5,
+        "owner": "Amit Verma",
         "tax_status": "Default",
         "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
@@ -16009,10 +18061,10 @@
         "building_id": "BKC-BLDG-1015",
         "building_name": "Securities Exchange Board of India",
         "floor": 1,
-        "total_floors": 13,
+        "total_floors": 14,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Vikram Shah",
+        "owner": "Ananya Roy",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -16069,12 +18121,12 @@
         "building_id": "BKC-BLDG-1015",
         "building_name": "Securities Exchange Board of India",
         "floor": 2,
-        "total_floors": 13,
+        "total_floors": 14,
         "base_height": 3.5,
         "height": 7.0,
-        "owner": "Sunita Deshmukh",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Vikram Shah",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -16129,12 +18181,12 @@
         "building_id": "BKC-BLDG-1015",
         "building_name": "Securities Exchange Board of India",
         "floor": 3,
-        "total_floors": 13,
+        "total_floors": 14,
         "base_height": 7.0,
         "height": 10.5,
-        "owner": "Amit Verma",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Rajesh Mehta",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -16189,10 +18241,10 @@
         "building_id": "BKC-BLDG-1015",
         "building_name": "Securities Exchange Board of India",
         "floor": 4,
-        "total_floors": 13,
+        "total_floors": 14,
         "base_height": 10.5,
         "height": 14.0,
-        "owner": "Ramesh Sharma",
+        "owner": "Vikram Shah",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -16249,12 +18301,12 @@
         "building_id": "BKC-BLDG-1015",
         "building_name": "Securities Exchange Board of India",
         "floor": 5,
-        "total_floors": 13,
+        "total_floors": 14,
         "base_height": 14.0,
         "height": 17.5,
-        "owner": "Rajesh Mehta",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Neha Gupta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -16309,10 +18361,10 @@
         "building_id": "BKC-BLDG-1015",
         "building_name": "Securities Exchange Board of India",
         "floor": 6,
-        "total_floors": 13,
+        "total_floors": 14,
         "base_height": 17.5,
         "height": 21.0,
-        "owner": "Ananya Roy",
+        "owner": "Vikram Shah",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -16369,12 +18421,12 @@
         "building_id": "BKC-BLDG-1015",
         "building_name": "Securities Exchange Board of India",
         "floor": 7,
-        "total_floors": 13,
+        "total_floors": 14,
         "base_height": 21.0,
         "height": 24.5,
         "owner": "Vikram Shah",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -16429,10 +18481,10 @@
         "building_id": "BKC-BLDG-1015",
         "building_name": "Securities Exchange Board of India",
         "floor": 8,
-        "total_floors": 13,
+        "total_floors": 14,
         "base_height": 24.5,
         "height": 28.0,
-        "owner": "Priya Patel",
+        "owner": "Ramesh Sharma",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -16489,7 +18541,7 @@
         "building_id": "BKC-BLDG-1015",
         "building_name": "Securities Exchange Board of India",
         "floor": 9,
-        "total_floors": 13,
+        "total_floors": 14,
         "base_height": 28.0,
         "height": 31.5,
         "owner": "Neha Gupta",
@@ -16549,10 +18601,10 @@
         "building_id": "BKC-BLDG-1015",
         "building_name": "Securities Exchange Board of India",
         "floor": 10,
-        "total_floors": 13,
+        "total_floors": 14,
         "base_height": 31.5,
         "height": 35.0,
-        "owner": "Neha Gupta",
+        "owner": "Amit Verma",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -16609,12 +18661,12 @@
         "building_id": "BKC-BLDG-1015",
         "building_name": "Securities Exchange Board of India",
         "floor": 11,
-        "total_floors": 13,
+        "total_floors": 14,
         "base_height": 35.0,
         "height": 38.5,
-        "owner": "Neha Gupta",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Vikram Shah",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -16669,10 +18721,10 @@
         "building_id": "BKC-BLDG-1015",
         "building_name": "Securities Exchange Board of India",
         "floor": 12,
-        "total_floors": 13,
+        "total_floors": 14,
         "base_height": 38.5,
         "height": 42.0,
-        "owner": "Ananya Roy",
+        "owner": "Sunita Deshmukh",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -16729,10 +18781,70 @@
         "building_id": "BKC-BLDG-1015",
         "building_name": "Securities Exchange Board of India",
         "floor": 13,
-        "total_floors": 13,
+        "total_floors": 14,
         "base_height": 42.0,
         "height": 45.5,
-        "owner": "Sunita Deshmukh",
+        "owner": "Ramesh Sharma",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.86085,
+              19.059513
+            ],
+            [
+              72.860877,
+              19.059186
+            ],
+            [
+              72.861192,
+              19.059008
+            ],
+            [
+              72.861806,
+              19.059053
+            ],
+            [
+              72.861773,
+              19.059348
+            ],
+            [
+              72.861497,
+              19.059377
+            ],
+            [
+              72.861338,
+              19.059515
+            ],
+            [
+              72.861193,
+              19.059544
+            ],
+            [
+              72.86085,
+              19.059513
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1015-F14-U1401",
+        "building_id": "BKC-BLDG-1015",
+        "building_name": "Securities Exchange Board of India",
+        "floor": 14,
+        "total_floors": 14,
+        "base_height": 45.5,
+        "height": 49.0,
+        "owner": "Ananya Roy",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -16816,7 +18928,7 @@
         "total_floors": 8,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Sunita Deshmukh",
+        "owner": "Ananya Roy",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -16900,9 +19012,9 @@
         "total_floors": 8,
         "base_height": 3.5,
         "height": 7.0,
-        "owner": "Priya Patel",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Neha Gupta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -16984,7 +19096,7 @@
         "total_floors": 8,
         "base_height": 7.0,
         "height": 10.5,
-        "owner": "Priya Patel",
+        "owner": "Neha Gupta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -17068,7 +19180,7 @@
         "total_floors": 8,
         "base_height": 10.5,
         "height": 14.0,
-        "owner": "Priya Patel",
+        "owner": "Rajesh Mehta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -17152,7 +19264,7 @@
         "total_floors": 8,
         "base_height": 14.0,
         "height": 17.5,
-        "owner": "Vikram Shah",
+        "owner": "Rajesh Mehta",
         "tax_status": "Default",
         "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
@@ -17236,7 +19348,7 @@
         "total_floors": 8,
         "base_height": 17.5,
         "height": 21.0,
-        "owner": "Ananya Roy",
+        "owner": "Amit Verma",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -17320,7 +19432,7 @@
         "total_floors": 8,
         "base_height": 21.0,
         "height": 24.5,
-        "owner": "Amit Verma",
+        "owner": "Ananya Roy",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -17404,9 +19516,9 @@
         "total_floors": 8,
         "base_height": 24.5,
         "height": 28.0,
-        "owner": "Priya Patel",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Neha Gupta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -17449,12 +19561,12 @@
         "building_id": "BKC-BLDG-1017",
         "building_name": "BKC Block 18",
         "floor": 1,
-        "total_floors": 13,
+        "total_floors": 11,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Ananya Roy",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Amit Verma",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -17497,12 +19609,12 @@
         "building_id": "BKC-BLDG-1017",
         "building_name": "BKC Block 18",
         "floor": 2,
-        "total_floors": 13,
+        "total_floors": 11,
         "base_height": 3.5,
         "height": 7.0,
-        "owner": "Sunita Deshmukh",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Priya Patel",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -17545,10 +19657,10 @@
         "building_id": "BKC-BLDG-1017",
         "building_name": "BKC Block 18",
         "floor": 3,
-        "total_floors": 13,
+        "total_floors": 11,
         "base_height": 7.0,
         "height": 10.5,
-        "owner": "Sunita Deshmukh",
+        "owner": "Vikram Shah",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -17593,12 +19705,12 @@
         "building_id": "BKC-BLDG-1017",
         "building_name": "BKC Block 18",
         "floor": 4,
-        "total_floors": 13,
+        "total_floors": 11,
         "base_height": 10.5,
         "height": 14.0,
-        "owner": "Neha Gupta",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Ramesh Sharma",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -17641,10 +19753,10 @@
         "building_id": "BKC-BLDG-1017",
         "building_name": "BKC Block 18",
         "floor": 5,
-        "total_floors": 13,
+        "total_floors": 11,
         "base_height": 14.0,
         "height": 17.5,
-        "owner": "Ramesh Sharma",
+        "owner": "Ananya Roy",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -17689,10 +19801,10 @@
         "building_id": "BKC-BLDG-1017",
         "building_name": "BKC Block 18",
         "floor": 6,
-        "total_floors": 13,
+        "total_floors": 11,
         "base_height": 17.5,
         "height": 21.0,
-        "owner": "Neha Gupta",
+        "owner": "Sunita Deshmukh",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -17737,10 +19849,10 @@
         "building_id": "BKC-BLDG-1017",
         "building_name": "BKC Block 18",
         "floor": 7,
-        "total_floors": 13,
+        "total_floors": 11,
         "base_height": 21.0,
         "height": 24.5,
-        "owner": "Ananya Roy",
+        "owner": "Rajesh Mehta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -17785,12 +19897,12 @@
         "building_id": "BKC-BLDG-1017",
         "building_name": "BKC Block 18",
         "floor": 8,
-        "total_floors": 13,
+        "total_floors": 11,
         "base_height": 24.5,
         "height": 28.0,
         "owner": "Sunita Deshmukh",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -17833,10 +19945,10 @@
         "building_id": "BKC-BLDG-1017",
         "building_name": "BKC Block 18",
         "floor": 9,
-        "total_floors": 13,
+        "total_floors": 11,
         "base_height": 28.0,
         "height": 31.5,
-        "owner": "Ramesh Sharma",
+        "owner": "Ananya Roy",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -17881,10 +19993,10 @@
         "building_id": "BKC-BLDG-1017",
         "building_name": "BKC Block 18",
         "floor": 10,
-        "total_floors": 13,
+        "total_floors": 11,
         "base_height": 31.5,
         "height": 35.0,
-        "owner": "Neha Gupta",
+        "owner": "Ramesh Sharma",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -17929,105 +20041,9 @@
         "building_id": "BKC-BLDG-1017",
         "building_name": "BKC Block 18",
         "floor": 11,
-        "total_floors": 13,
+        "total_floors": 11,
         "base_height": 35.0,
         "height": 38.5,
-        "owner": "Neha Gupta",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
-        "default_color": "#3A3A3A",
-        "land_type": "Residential"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72.868219,
-              19.062763
-            ],
-            [
-              72.868256,
-              19.062289
-            ],
-            [
-              72.868877,
-              19.062335
-            ],
-            [
-              72.869072,
-              19.062715
-            ],
-            [
-              72.869066,
-              19.062833
-            ],
-            [
-              72.868219,
-              19.062763
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "ulpin": "27-BKC-1017-F12-U1201",
-        "building_id": "BKC-BLDG-1017",
-        "building_name": "BKC Block 18",
-        "floor": 12,
-        "total_floors": 13,
-        "base_height": 38.5,
-        "height": 42.0,
-        "owner": "Neha Gupta",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
-        "default_color": "#3A3A3A",
-        "land_type": "Residential"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72.868219,
-              19.062763
-            ],
-            [
-              72.868256,
-              19.062289
-            ],
-            [
-              72.868877,
-              19.062335
-            ],
-            [
-              72.869072,
-              19.062715
-            ],
-            [
-              72.869066,
-              19.062833
-            ],
-            [
-              72.868219,
-              19.062763
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "ulpin": "27-BKC-1017-F13-U1301",
-        "building_id": "BKC-BLDG-1017",
-        "building_name": "BKC Block 18",
-        "floor": 13,
-        "total_floors": 13,
-        "base_height": 42.0,
-        "height": 45.5,
         "owner": "Rajesh Mehta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
@@ -18073,12 +20089,12 @@
         "building_id": "BKC-BLDG-1018",
         "building_name": "Jio World Residences",
         "floor": 1,
-        "total_floors": 7,
+        "total_floors": 6,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Ananya Roy",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Priya Patel",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -18121,10 +20137,10 @@
         "building_id": "BKC-BLDG-1018",
         "building_name": "Jio World Residences",
         "floor": 2,
-        "total_floors": 7,
+        "total_floors": 6,
         "base_height": 3.5,
         "height": 7.0,
-        "owner": "Amit Verma",
+        "owner": "Rajesh Mehta",
         "tax_status": "Default",
         "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
@@ -18169,12 +20185,12 @@
         "building_id": "BKC-BLDG-1018",
         "building_name": "Jio World Residences",
         "floor": 3,
-        "total_floors": 7,
+        "total_floors": 6,
         "base_height": 7.0,
         "height": 10.5,
-        "owner": "Neha Gupta",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Rajesh Mehta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -18217,10 +20233,10 @@
         "building_id": "BKC-BLDG-1018",
         "building_name": "Jio World Residences",
         "floor": 4,
-        "total_floors": 7,
+        "total_floors": 6,
         "base_height": 10.5,
         "height": 14.0,
-        "owner": "Sunita Deshmukh",
+        "owner": "Neha Gupta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -18265,10 +20281,10 @@
         "building_id": "BKC-BLDG-1018",
         "building_name": "Jio World Residences",
         "floor": 5,
-        "total_floors": 7,
+        "total_floors": 6,
         "base_height": 14.0,
         "height": 17.5,
-        "owner": "Rajesh Mehta",
+        "owner": "Vikram Shah",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -18313,58 +20329,10 @@
         "building_id": "BKC-BLDG-1018",
         "building_name": "Jio World Residences",
         "floor": 6,
-        "total_floors": 7,
+        "total_floors": 6,
         "base_height": 17.5,
         "height": 21.0,
-        "owner": "Neha Gupta",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
-        "default_color": "#3A3A3A",
-        "land_type": "Residential"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72.866369,
-              19.064953
-            ],
-            [
-              72.865951,
-              19.063909
-            ],
-            [
-              72.866246,
-              19.063803
-            ],
-            [
-              72.866323,
-              19.063996
-            ],
-            [
-              72.866664,
-              19.064848
-            ],
-            [
-              72.866369,
-              19.064953
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "ulpin": "27-BKC-1018-F07-U701",
-        "building_id": "BKC-BLDG-1018",
-        "building_name": "Jio World Residences",
-        "floor": 7,
-        "total_floors": 7,
-        "base_height": 21.0,
-        "height": 24.5,
-        "owner": "Sunita Deshmukh",
+        "owner": "Ananya Roy",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -18405,10 +20373,10 @@
         "building_id": "BKC-BLDG-1019",
         "building_name": "First International Financial Center",
         "floor": 1,
-        "total_floors": 9,
+        "total_floors": 13,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Rajesh Mehta",
+        "owner": "Priya Patel",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -18449,10 +20417,10 @@
         "building_id": "BKC-BLDG-1019",
         "building_name": "First International Financial Center",
         "floor": 2,
-        "total_floors": 9,
+        "total_floors": 13,
         "base_height": 3.5,
         "height": 7.0,
-        "owner": "Ananya Roy",
+        "owner": "Amit Verma",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -18493,10 +20461,10 @@
         "building_id": "BKC-BLDG-1019",
         "building_name": "First International Financial Center",
         "floor": 3,
-        "total_floors": 9,
+        "total_floors": 13,
         "base_height": 7.0,
         "height": 10.5,
-        "owner": "Ananya Roy",
+        "owner": "Priya Patel",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -18537,12 +20505,12 @@
         "building_id": "BKC-BLDG-1019",
         "building_name": "First International Financial Center",
         "floor": 4,
-        "total_floors": 9,
+        "total_floors": 13,
         "base_height": 10.5,
         "height": 14.0,
-        "owner": "Vikram Shah",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Sunita Deshmukh",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -18581,10 +20549,10 @@
         "building_id": "BKC-BLDG-1019",
         "building_name": "First International Financial Center",
         "floor": 5,
-        "total_floors": 9,
+        "total_floors": 13,
         "base_height": 14.0,
         "height": 17.5,
-        "owner": "Neha Gupta",
+        "owner": "Priya Patel",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -18625,10 +20593,10 @@
         "building_id": "BKC-BLDG-1019",
         "building_name": "First International Financial Center",
         "floor": 6,
-        "total_floors": 9,
+        "total_floors": 13,
         "base_height": 17.5,
         "height": 21.0,
-        "owner": "Vikram Shah",
+        "owner": "Priya Patel",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -18669,12 +20637,12 @@
         "building_id": "BKC-BLDG-1019",
         "building_name": "First International Financial Center",
         "floor": 7,
-        "total_floors": 9,
+        "total_floors": 13,
         "base_height": 21.0,
         "height": 24.5,
         "owner": "Ananya Roy",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -18713,10 +20681,10 @@
         "building_id": "BKC-BLDG-1019",
         "building_name": "First International Financial Center",
         "floor": 8,
-        "total_floors": 9,
+        "total_floors": 13,
         "base_height": 24.5,
         "height": 28.0,
-        "owner": "Amit Verma",
+        "owner": "Rajesh Mehta",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -18757,10 +20725,186 @@
         "building_id": "BKC-BLDG-1019",
         "building_name": "First International Financial Center",
         "floor": 9,
-        "total_floors": 9,
+        "total_floors": 13,
         "base_height": 28.0,
         "height": 31.5,
-        "owner": "Ananya Roy",
+        "owner": "Priya Patel",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.869279,
+              19.069294
+            ],
+            [
+              72.869512,
+              19.068973
+            ],
+            [
+              72.870209,
+              19.069425
+            ],
+            [
+              72.869975,
+              19.069746
+            ],
+            [
+              72.869279,
+              19.069294
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1019-F10-U1001",
+        "building_id": "BKC-BLDG-1019",
+        "building_name": "First International Financial Center",
+        "floor": 10,
+        "total_floors": 13,
+        "base_height": 31.5,
+        "height": 35.0,
+        "owner": "Priya Patel",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.869279,
+              19.069294
+            ],
+            [
+              72.869512,
+              19.068973
+            ],
+            [
+              72.870209,
+              19.069425
+            ],
+            [
+              72.869975,
+              19.069746
+            ],
+            [
+              72.869279,
+              19.069294
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1019-F11-U1101",
+        "building_id": "BKC-BLDG-1019",
+        "building_name": "First International Financial Center",
+        "floor": 11,
+        "total_floors": 13,
+        "base_height": 35.0,
+        "height": 38.5,
+        "owner": "Sunita Deshmukh",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.869279,
+              19.069294
+            ],
+            [
+              72.869512,
+              19.068973
+            ],
+            [
+              72.870209,
+              19.069425
+            ],
+            [
+              72.869975,
+              19.069746
+            ],
+            [
+              72.869279,
+              19.069294
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1019-F12-U1201",
+        "building_id": "BKC-BLDG-1019",
+        "building_name": "First International Financial Center",
+        "floor": 12,
+        "total_floors": 13,
+        "base_height": 38.5,
+        "height": 42.0,
+        "owner": "Vikram Shah",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
+        "default_color": "#3A3A3A",
+        "land_type": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.869279,
+              19.069294
+            ],
+            [
+              72.869512,
+              19.068973
+            ],
+            [
+              72.870209,
+              19.069425
+            ],
+            [
+              72.869975,
+              19.069746
+            ],
+            [
+              72.869279,
+              19.069294
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ulpin": "27-BKC-1019-F13-U1301",
+        "building_id": "BKC-BLDG-1019",
+        "building_name": "First International Financial Center",
+        "floor": 13,
+        "total_floors": 13,
+        "base_height": 42.0,
+        "height": 45.5,
+        "owner": "Vikram Shah",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -18804,7 +20948,7 @@
         "total_floors": 6,
         "base_height": 0.0,
         "height": 3.5,
-        "owner": "Ramesh Sharma",
+        "owner": "Priya Patel",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -18848,9 +20992,9 @@
         "total_floors": 6,
         "base_height": 3.5,
         "height": 7.0,
-        "owner": "Amit Verma",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Neha Gupta",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -18892,9 +21036,9 @@
         "total_floors": 6,
         "base_height": 7.0,
         "height": 10.5,
-        "owner": "Sunita Deshmukh",
-        "tax_status": "Paid",
-        "tax_color": "#2ECC71",
+        "owner": "Priya Patel",
+        "tax_status": "Default",
+        "tax_color": "#E74C3C",
         "default_color": "#3A3A3A",
         "land_type": "Commercial"
       }
@@ -18936,7 +21080,7 @@
         "total_floors": 6,
         "base_height": 10.5,
         "height": 14.0,
-        "owner": "Priya Patel",
+        "owner": "Ramesh Sharma",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
@@ -18980,9 +21124,9 @@
         "total_floors": 6,
         "base_height": 14.0,
         "height": 17.5,
-        "owner": "Vikram Shah",
-        "tax_status": "Default",
-        "tax_color": "#E74C3C",
+        "owner": "Sunita Deshmukh",
+        "tax_status": "Paid",
+        "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",
         "land_type": "Residential"
       }
@@ -19024,7 +21168,7 @@
         "total_floors": 6,
         "base_height": 17.5,
         "height": 21.0,
-        "owner": "Ananya Roy",
+        "owner": "Sunita Deshmukh",
         "tax_status": "Paid",
         "tax_color": "#2ECC71",
         "default_color": "#3A3A3A",

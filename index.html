@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>3D ULPIN Multi-Floor Visualizer - BKC Core</title>
+    <title>3D ULPIN Multi-Floor Visualizer - South Mumbai</title>
     <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
     <link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet" />
     <style>
@@ -58,7 +58,7 @@
         }
 
         .info-title {
-            font-size: 15px;
+            font-size: 13px;
             font-weight: bold;
             margin-bottom: 15px;
             color: #00E5FF;
@@ -116,20 +116,20 @@
     <div class="info-title" id="p-ulpin">--</div>
     
     <div class="info-row">
-        <span style="color: #aaa;">Building:</span>
-        <span id="p-bldg">--</span>
+        <span style="color: #aaa;">Project:</span>
+        <span id="p-bldg" style="text-align: right; font-weight: 500;">--</span>
     </div>
     <div class="info-row">
-        <span style="color: #aaa;">Type:</span>
-        <span id="p-type">--</span>
+        <span style="color: #aaa;">RERA ID:</span>
+        <span id="p-type" style="text-align: right;">--</span>
     </div>
     <div class="info-row">
         <span style="color: #aaa;">Floor / Unit:</span>
         <span id="p-floor">--</span>
     </div>
     <div class="info-row">
-        <span style="color: #aaa;">Owner:</span>
-        <span id="p-owner">--</span>
+        <span style="color: #aaa;">Promoter:</span>
+        <span id="p-owner" style="text-align: right;">--</span>
     </div>
     <div class="info-row">
         <span style="color: #aaa;">Tax Status:</span>
@@ -137,13 +137,13 @@
     </div>
 </div>
 
-<div id="coords-box">Lng: 72.8652 | Lat: 19.0630</div>
+<div id="coords-box">Lng: 72.82422 | Lat: 18.92557</div>
 
 <script>
     const map = new maplibregl.Map({
         container: 'map',
         style: 'https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json',
-        center: [72.8652, 19.0630],
+        center: [72.82422, 18.92557],
         zoom: 16.2,
         pitch: 58,
         bearing: -20,
@@ -232,13 +232,13 @@
     }
 
     function updatePanel(props) {
-        document.getElementById('p-ulpin').innerText = props.ulpin;
-        document.getElementById('p-bldg').innerText = props.building_name;
-        document.getElementById('p-type').innerText = props.land_type;
-        document.getElementById('p-owner').innerText = props.owner;
+        document.getElementById('p-ulpin').innerText = props.ulpin || '--';
+        document.getElementById('p-bldg').innerText = props.project_name || props.building_name || 'N/A';
+        document.getElementById('p-type').innerText = props.rera_id || props.land_type || 'N/A';
+        document.getElementById('p-owner').innerText = props.promoter_name || props.owner || 'N/A';
         
         const statusEl = document.getElementById('p-status');
-        statusEl.innerText = props.tax_status;
+        statusEl.innerText = props.tax_status || 'N/A';
         statusEl.style.color = props.tax_status === 'Paid' ? '#2ECC71' : '#E74C3C';
 
         document.getElementById('p-floor').innerText = `Floor ${props.floor} of ${props.total_floors}`;
@@ -250,7 +250,7 @@
 
         map.addSource('ulpin-data', {
             'type': 'geojson',
-            'data': './bkc_3d_ulpin.geojson'
+            'data': './sobo_3d_ulpin.geojson'
         });
 
         map.addLayer({
@@ -301,11 +301,11 @@
             }
 
             const centroid = getFeatureCentroid(feature.geometry);
-            const dynamicZoom = 18.5 - (props.floor * 0.2);
+            const dynamicZoom = 18.5 - (props.floor * 0.1);
 
             map.flyTo({
                 center: centroid,
-                zoom: dynamicZoom,
+                zoom: Math.max(17.5, dynamicZoom),
                 pitch: 62,
                 bearing: map.getBearing(),
                 padding: { top: 150, bottom: 0, left: 0, right: 350 },
@@ -324,6 +324,36 @@
         map.on('mousemove', (e) => {
             document.getElementById('coords-box').innerText = `Lng: ${e.lngLat.lng.toFixed(5)} | Lat: ${e.lngLat.lat.toFixed(5)}`;
         });
+
+        // Handle incoming QR Code Deep-Links (?ulpin=...)
+        const urlParams = new URLSearchParams(window.location.search);
+        const targetUlpin = urlParams.get('ulpin');
+
+        if (targetUlpin) {
+            fetch('./sobo_3d_ulpin.geojson')
+                .then(res => res.json())
+                .then(data => {
+                    const targetFeature = data.features.find(f => f.properties.ulpin === targetUlpin);
+                    if (targetFeature) {
+                        const props = targetFeature.properties;
+                        const centroid = getFeatureCentroid(targetFeature.geometry);
+
+                        updatePanel(props);
+                        animateExplosion(props.building_id, true);
+
+                        const dynamicZoom = 18.5 - (props.floor * 0.1);
+                        map.flyTo({
+                            center: centroid,
+                            zoom: Math.max(17.5, dynamicZoom),
+                            pitch: 62,
+                            bearing: map.getBearing(),
+                            padding: { top: 150, bottom: 0, left: 0, right: 350 },
+                            duration: 1800,
+                            essential: true
+                        });
+                    }
+                });
+        }
     });
 </script>
 </body>
